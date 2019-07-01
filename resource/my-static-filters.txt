@@ -24,3 +24,6 @@ tuku.jia.com##.box_shade
 tuku.jia.com##.bottom-zxbj-banner
 tuku.jia.com##.shake
 tuku.jia.com##.zx_xrhb
+
+! 2019/7/1 https://www.bilibili.com
+www.bilibili.com###fixed_app_download
