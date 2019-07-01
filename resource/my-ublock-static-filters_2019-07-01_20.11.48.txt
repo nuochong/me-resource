@@ -1,0 +1,26 @@
+! 2019/2/26 https://yq.aliyun.com
+||yqfile.alicdn.com/img_1934752e1784c629cc2dfb6f31c2faf2.jpg$image
+||img.alicdn.com/tfs/TB1kz31IAvoK1RjSZPfXXXPKFXa-312-180.png$image
+yq.aliyun.com##.aliyun-delivery-view-close
+||img.alicdn.com/tfs/TB1kz31IAvoK1RjSZPfXXXPKFXa-312-180.png$image
+yq.aliyun.com##.yq_blog_1545.yq-blog-sem-remove.yq-ads-blog.sign-content
+
+! 2019/4/11 https://www.kancloud.cn
+www.kancloud.cn##.title
+
+! 2019/4/18 https://www.cnbeta.com
+||static.cnbetacdn.com/share/r2.gif$image
+www.cnbeta.com##.article-share-code > label
+
+! 2019/5/26 https://shoucang.taobao.com
+shoucang.taobao.com##.fav-zuanshi
+
+! 2019/6/1 http://tool.manmanbuy.com
+||mmbapposs.manmanbuy.com/pc%E5%9B%BE%E6%A0%87-%E4%BA%AC%E4%B8%9C.png?d=Sat%20Jun%2001%202019%2000:36:55%20GMT+0800%20(%D6%D0%B9%FA%B1%EA%D7%BC%CA%B1%BC%E4)$image
+tool.manmanbuy.com##.right_alert_show.right_alert
+
+! 2019/6/28 https://tuku.jia.com
+tuku.jia.com##.box_shade
+tuku.jia.com##.bottom-zxbj-banner
+tuku.jia.com##.shake
+tuku.jia.com##.zx_xrhb
