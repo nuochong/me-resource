@@ -27,3 +27,6 @@ tuku.jia.com##.zx_xrhb
 
 ! 2019/7/1 https://www.bilibili.com
 www.bilibili.com###fixed_app_download
+
+! 2019/7/3 https://www.zhangxinxu.com
+www.zhangxinxu.com##.topa
