@@ -30,3 +30,7 @@ www.bilibili.com###fixed_app_download
 
 ! 2019/7/3 https://www.zhangxinxu.com
 www.zhangxinxu.com##.topa
+
+! 2019/7/9 https://www.baidu.com
+www.baidu.com##.qrcodeCon
+www.baidu.com###ftCon
