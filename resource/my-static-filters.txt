@@ -56,3 +56,5 @@ cn.bing.com###b_footer
 
 ! 2019/7/21 http://fanyi.youdao.com
 fanyi.youdao.com##.inside__products
+fanyi.youdao.com##.side__nav
+fanyi.youdao.com##.fanyi__footer
