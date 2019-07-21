@@ -53,3 +53,6 @@ www.bilibili.com###entryOld
 
 ! 2019/7/21 https://cn.bing.com
 cn.bing.com###b_footer
+
+! 2019/7/21 http://fanyi.youdao.com
+fanyi.youdao.com##.inside__products
