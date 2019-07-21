@@ -16,7 +16,6 @@ www.cnbeta.com##.pageFooter
 ! 2019/7/21 https://hot.cnbeta.com
 hot.cnbeta.com##.pageFooter
 
-
 ! 2019/6/1 http://tool.manmanbuy.com
 ||mmbapposs.manmanbuy.com/pc%E5%9B%BE%E6%A0%87-%E4%BA%AC%E4%B8%9C.png?d=Sat%20Jun%2001%202019%2000:36:55%20GMT+0800%20(%D6%D0%B9%FA%B1%EA%D7%BC%CA%B1%BC%E4)$image
 tool.manmanbuy.com##.right_alert_show.right_alert
