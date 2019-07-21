@@ -70,3 +70,15 @@ search.jd.com##div.w:nth-of-type(9)
 
 ! 2019/7/21 https://item.jd.com
 item.jd.com###GLOBAL_FOOTER
+
+! 2019/7/21 https://detail.tmall.com
+detail.tmall.com###footer
+
+! 2019/7/21 https://item.taobao.com
+item.taobao.com##.tb-footer
+
+! 2019/7/21 https://detail.tmall.com
+detail.tmall.com###official-remind
+
+! 2019/7/21 https://item.taobao.com
+item.taobao.com###official-remind
