@@ -67,3 +67,6 @@ s.taobao.com##div.grid-total:nth-of-type(5)
 search.jd.com###footer-2017
 search.jd.com###service-2017
 search.jd.com##div.w:nth-of-type(9)
+
+! 2019/7/21 https://item.jd.com
+item.jd.com###GLOBAL_FOOTER
