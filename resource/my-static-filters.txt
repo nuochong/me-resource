@@ -89,3 +89,9 @@ www.jd.com##.mod_copyright
 
 ! 2019/7/21 https://www.taobao.com
 www.taobao.com###J_SiteFooter
+
+! 2019/7/21 https://login.taobao.com
+login.taobao.com##.footer
+
+! 2019/7/21 https://passport.jd.com
+passport.jd.com###footer-2013
