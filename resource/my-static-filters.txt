@@ -62,3 +62,8 @@ fanyi.youdao.com##.fanyi__footer
 ! 2019/7/21 https://s.taobao.com
 s.taobao.com###srp-footer
 s.taobao.com##div.grid-total:nth-of-type(5)
+
+! 2019/7/21 https://search.jd.com
+search.jd.com###footer-2017
+search.jd.com###service-2017
+search.jd.com##div.w:nth-of-type(9)
