@@ -93,6 +93,9 @@ t.jd.com##.backpanel-inner
 ! 2019/7/21 https://order.jd.com
 order.jd.com##div.mod-main:nth-of-type(7)
 
+! 2019/7/21 http://tool.manmanbuy.com
+tool.manmanbuy.com##.footer-wrap
+
 ! 2019/7/21 jd.com
 jd.com###footer-2017
 jd.com###service-2017
