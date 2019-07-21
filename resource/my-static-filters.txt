@@ -41,3 +41,6 @@ www.baidu.com###header > div:nth-of-type(6)
 
 ! 2019/7/21 https://www.baidu.com
 www.baidu.com###foot
+
+! 2019/7/21 https://www.cnbeta.com
+www.cnbeta.com##.pageFooter
