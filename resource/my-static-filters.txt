@@ -74,6 +74,7 @@ detail.tmall.com###tstart
 ! 2019/7/21 https://item.taobao.com
 item.taobao.com##.tb-footer
 item.taobao.com###official-remind
+item.taobao.com###tstart
 
 ! 2019/7/21 https://www.jd.com
 www.jd.com##.mod_copyright
