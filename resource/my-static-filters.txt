@@ -11,9 +11,11 @@ www.kancloud.cn##.title
 ! 2019/4/18 https://www.cnbeta.com
 ||static.cnbetacdn.com/share/r2.gif$image
 www.cnbeta.com##.article-share-code > label
+www.cnbeta.com##.pageFooter
 
-! 2019/5/26 https://shoucang.taobao.com
-shoucang.taobao.com##.fav-zuanshi
+! 2019/7/21 https://hot.cnbeta.com
+hot.cnbeta.com##.pageFooter
+
 
 ! 2019/6/1 http://tool.manmanbuy.com
 ||mmbapposs.manmanbuy.com/pc%E5%9B%BE%E6%A0%87-%E4%BA%AC%E4%B8%9C.png?d=Sat%20Jun%2001%202019%2000:36:55%20GMT+0800%20(%D6%D0%B9%FA%B1%EA%D7%BC%CA%B1%BC%E4)$image
@@ -34,19 +36,9 @@ www.zhangxinxu.com##.topa
 ! 2019/7/9 https://www.baidu.com
 www.baidu.com##.qrcodeCon
 www.baidu.com###ftCon
-
-! 2019/7/14 https://www.baidu.com
 www.baidu.com###userinfo-wraps
 www.baidu.com###header > div:nth-of-type(6)
-
-! 2019/7/21 https://www.baidu.com
 www.baidu.com###foot
-
-! 2019/7/21 https://www.cnbeta.com
-www.cnbeta.com##.pageFooter
-
-! 2019/7/21 https://hot.cnbeta.com
-hot.cnbeta.com##.pageFooter
 
 ! 2019/7/21 https://www.bilibili.com
 www.bilibili.com###entryOld
@@ -72,19 +64,15 @@ search.jd.com##.qrcode-container
 
 ! 2019/7/21 https://item.jd.com
 item.jd.com###GLOBAL_FOOTER
-item.jd.com###toolbar-qrcode
 
 ! 2019/7/21 https://detail.tmall.com
 detail.tmall.com###footer
 detail.tmall.com##.mui-mbarp-qrcode
+detail.tmall.com###official-remind
+detail.tmall.com###tstart
 
 ! 2019/7/21 https://item.taobao.com
 item.taobao.com##.tb-footer
-
-! 2019/7/21 https://detail.tmall.com
-detail.tmall.com###official-remind
-
-! 2019/7/21 https://item.taobao.com
 item.taobao.com###official-remind
 
 ! 2019/7/21 https://www.jd.com
@@ -92,9 +80,14 @@ www.jd.com##.mod_copyright
 
 ! 2019/7/21 https://www.taobao.com
 www.taobao.com###J_SiteFooter
+www.taobao.com##.footer_2014
 
 ! 2019/7/21 https://login.taobao.com
 login.taobao.com##.footer
 
 ! 2019/7/21 https://passport.jd.com
 passport.jd.com###footer-2013
+
+! 2019/7/21 https://shoucang.taobao.com
+shoucang.taobao.com###tstart
+shoucang.taobao.com##.fav-zuanshi
