@@ -58,3 +58,7 @@ cn.bing.com###b_footer
 fanyi.youdao.com##.inside__products
 fanyi.youdao.com##.side__nav
 fanyi.youdao.com##.fanyi__footer
+
+! 2019/7/21 https://s.taobao.com
+s.taobao.com###srp-footer
+s.taobao.com##div.grid-total:nth-of-type(5)
