@@ -44,3 +44,6 @@ www.baidu.com###foot
 
 ! 2019/7/21 https://www.cnbeta.com
 www.cnbeta.com##.pageFooter
+
+! 2019/7/21 https://hot.cnbeta.com
+hot.cnbeta.com##.pageFooter
