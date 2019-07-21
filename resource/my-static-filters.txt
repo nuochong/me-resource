@@ -56,8 +56,6 @@ s.taobao.com###srp-footer
 s.taobao.com##div.grid-total:nth-of-type(5)
 
 ! 2019/7/21 https://search.jd.com
-search.jd.com###footer-2017
-search.jd.com###service-2017
 search.jd.com##.bottom-search
 search.jd.com##div.w:nth-of-type(9)
 search.jd.com##.qrcode-container
@@ -72,9 +70,7 @@ detail.tmall.com###official-remind
 detail.tmall.com###tstart
 
 ! 2019/7/21 https://item.taobao.com
-item.taobao.com##.tb-footer
 item.taobao.com###official-remind
-item.taobao.com###tstart
 
 ! 2019/7/21 https://www.jd.com
 www.jd.com##.mod_copyright
@@ -90,11 +86,18 @@ login.taobao.com##.footer
 passport.jd.com###footer-2013
 
 ! 2019/7/21 https://shoucang.taobao.com
-shoucang.taobao.com###tstart
 shoucang.taobao.com##.fav-zuanshi
-shoucang.taobao.com##.tb-footer
 
 ! 2019/7/21 https://t.jd.com
-t.jd.com###footer-2017
-t.jd.com###service-2017
 t.jd.com##.backpanel-inner
+
+! 2019/7/21 https://order.jd.com
+order.jd.com##div.mod-main:nth-of-type(7)
+
+! 2019/7/21 jd.com
+jd.com###footer-2017
+jd.com###service-2017
+
+! 2019/7/21 taobao.com
+taobao.com##.tb-footer
+taobao.com###tstart
