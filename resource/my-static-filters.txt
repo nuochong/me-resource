@@ -50,3 +50,6 @@ hot.cnbeta.com##.pageFooter
 
 ! 2019/7/21 https://www.bilibili.com
 www.bilibili.com###entryOld
+
+! 2019/7/21 https://cn.bing.com
+cn.bing.com###b_footer
