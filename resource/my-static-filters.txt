@@ -38,3 +38,6 @@ www.baidu.com###ftCon
 ! 2019/7/14 https://www.baidu.com
 www.baidu.com###userinfo-wraps
 www.baidu.com###header > div:nth-of-type(6)
+
+! 2019/7/21 https://www.baidu.com
+www.baidu.com###foot
