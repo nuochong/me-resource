@@ -92,3 +92,4 @@ passport.jd.com###footer-2013
 ! 2019/7/21 https://shoucang.taobao.com
 shoucang.taobao.com###tstart
 shoucang.taobao.com##.fav-zuanshi
+shoucang.taobao.com##.tb-footer
