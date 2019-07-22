@@ -12,6 +12,7 @@ www.kancloud.cn##.title
 ||static.cnbetacdn.com/share/r2.gif$image
 www.cnbeta.com##.article-share-code > label
 www.cnbeta.com##.pageFooter
+www.cnbeta.com##.fr
 
 ! 2019/7/21 https://hot.cnbeta.com
 hot.cnbeta.com##.pageFooter
