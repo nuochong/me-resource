@@ -105,3 +105,6 @@ jd.com###service-2017
 ! 2019/7/21 taobao.com
 taobao.com##.tb-footer
 taobao.com###tstart
+
+! 2019/7/23 http://news.sina.com.cn
+news.sina.com.cn###tab_related
