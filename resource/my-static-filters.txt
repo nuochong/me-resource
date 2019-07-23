@@ -94,6 +94,10 @@ order.jd.com##div.mod-main:nth-of-type(7)
 ! 2019/7/21 http://tool.manmanbuy.com
 tool.manmanbuy.com##.footer-wrap
 
+! 2019/7/23 http://ent.ifeng.com
+ent.ifeng.com##.leftContent-1ESnktbA > div:nth-of-type(3)
+ent.ifeng.com##.box-1F3p1j_9
+
 ! 2019/7/21 jd.com
 jd.com###footer-2017
 jd.com###service-2017
