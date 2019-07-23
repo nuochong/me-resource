@@ -111,4 +111,4 @@ news.sina.com.cn###tab_related
 
 ! samsung
 contents.internet.apps.samsung.com###operationBanner
-contents.internet.apps.samsung.com##.template-type-2
+contents.internet.apps.samsung.com##li.template-type-2
