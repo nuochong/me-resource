@@ -108,3 +108,6 @@ taobao.com###tstart
 
 ! 2019/7/23 http://news.sina.com.cn
 news.sina.com.cn###tab_related
+
+! samsung
+contents.internet.apps.samsung.com###operationBanner
