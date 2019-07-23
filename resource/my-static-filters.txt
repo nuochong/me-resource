@@ -110,5 +110,5 @@ taobao.com###tstart
 news.sina.com.cn###tab_related
 
 ! samsung
-contents.internet.apps.samsung.com###operationBanner
-contents.internet.apps.samsung.com##li.template-type-2
+apps.samsung.com###operationBanner
+apps.samsung.com##li.template-type-2
