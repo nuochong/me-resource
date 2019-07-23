@@ -8,14 +8,11 @@ yq.aliyun.com##.yq_blog_1545.yq-blog-sem-remove.yq-ads-blog.sign-content
 ! 2019/4/11 https://www.kancloud.cn
 www.kancloud.cn##.title
 
-! 2019/4/18 https://www.cnbeta.com
+! 2019/4/18 cnbeta.com
 ||static.cnbetacdn.com/share/r2.gif$image
-www.cnbeta.com##.article-share-code > label
-www.cnbeta.com##.pageFooter
-www.cnbeta.com##.fr
-
-! 2019/7/21 https://hot.cnbeta.com
-hot.cnbeta.com##.pageFooter
+cnbeta.com##.article-share-code > label
+cnbeta.com##.pageFooter
+cnbeta.com##.fr
 
 ! 2019/6/1 http://tool.manmanbuy.com
 ||mmbapposs.manmanbuy.com/pc%E5%9B%BE%E6%A0%87-%E4%BA%AC%E4%B8%9C.png?d=Sat%20Jun%2001%202019%2000:36:55%20GMT+0800%20(%D6%D0%B9%FA%B1%EA%D7%BC%CA%B1%BC%E4)$image
