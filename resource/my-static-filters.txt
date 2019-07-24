@@ -26,6 +26,10 @@ tuku.jia.com##.zx_xrhb
 
 ! 2019/7/1 https://www.bilibili.com
 www.bilibili.com###fixed_app_download
+www.bilibili.com###entryOld
+
+! 2019/7/24 https://search.bilibili.com
+search.bilibili.com##.footer-wrp
 
 ! 2019/7/3 https://www.zhangxinxu.com
 www.zhangxinxu.com##.topa
@@ -36,9 +40,6 @@ www.baidu.com###ftCon
 www.baidu.com###userinfo-wraps
 www.baidu.com###header > div:nth-of-type(6)
 www.baidu.com###foot
-
-! 2019/7/21 https://www.bilibili.com
-www.bilibili.com###entryOld
 
 ! 2019/7/21 https://cn.bing.com
 cn.bing.com###b_footer
@@ -108,7 +109,3 @@ taobao.com###tstart
 
 ! 2019/7/23 http://news.sina.com.cn
 news.sina.com.cn###tab_related
-
-! samsung
-apps.samsung.com###operationBanner
-apps.samsung.com##li.template-type-2
