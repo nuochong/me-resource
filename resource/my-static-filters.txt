@@ -60,6 +60,7 @@ search.jd.com##.qrcode-container
 
 ! 2019/7/21 https://item.jd.com
 item.jd.com###GLOBAL_FOOTER
+item.jd.com###toolbar-qrcode
 
 ! 2019/7/21 https://detail.tmall.com
 detail.tmall.com###footer
