@@ -163,3 +163,9 @@ zhidao.baidu.com##.wgt-footer-new
 
 ! 2019/8/4 https://www.v2ex.com
 www.v2ex.com###Bottom
+
+! 2019/8/4 https://blog.csdn.net
+blog.csdn.net###footer-contact-box
+blog.csdn.net##.contact-info
+blog.csdn.net##.feed_copyright
+blog.csdn.net##.allow-info-box
