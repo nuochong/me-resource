@@ -181,6 +181,7 @@ baike.baidu.com##.topA
 baike.baidu.com##.wgt-footer-main
 baike.baidu.com##.lemmaWgt-promotion-vbaike
 baike.baidu.com##.lemmaWgt-promotion-slide
+baike.baidu.com###side-share
 
 ! 2019/8/4 https://baijiahao.baidu.com
 baijiahao.baidu.com##.copy-right
