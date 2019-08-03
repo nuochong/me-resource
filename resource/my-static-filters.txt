@@ -97,6 +97,7 @@ shoucang.taobao.com##.fav-zuanshi
 
 ! 2019/7/21 https://t.jd.com
 t.jd.com##.backpanel-inner
+t.jd.com###shareRec
 
 ! 2019/7/21 https://order.jd.com
 order.jd.com##div.mod-main:nth-of-type(7)
