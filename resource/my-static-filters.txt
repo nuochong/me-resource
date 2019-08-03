@@ -141,3 +141,22 @@ www.nmc.cn###hotNews
 map.baidu.com###message-center
 map.baidu.com##.anchorBL.BMap_noprint.BMap_cpyCtrl > span
 map.baidu.com##.poi-ads
+
+! 2019/8/4 https://www.jianshu.com
+www.jianshu.com###note-ad
+www.jianshu.com###note-fixed-ad-container
+
+! 2019/8/4 https://segmentfault.com
+segmentfault.com##.job-recommend
+segmentfault.com##.hidden-xs.hidden-sm.hidden-md.mb25
+segmentfault.com###footer
+
+! 2019/8/4 https://www.jb51.net
+www.jb51.net###footer
+
+! 2019/8/4 https://jingyan.baidu.com
+jingyan.baidu.com###fresh-share-exp-e
+jingyan.baidu.com##.magzine-list
+
+! 2019/8/4 https://zhidao.baidu.com
+zhidao.baidu.com##.wgt-footer-new
