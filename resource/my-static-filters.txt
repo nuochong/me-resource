@@ -160,3 +160,6 @@ jingyan.baidu.com##.magzine-list
 
 ! 2019/8/4 https://zhidao.baidu.com
 zhidao.baidu.com##.wgt-footer-new
+
+! 2019/8/4 https://www.v2ex.com
+www.v2ex.com###Bottom
