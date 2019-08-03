@@ -131,3 +131,4 @@ www.nmc.cn###hotNews
 ! 2019/8/4 https://map.baidu.com
 map.baidu.com###message-center
 map.baidu.com##.anchorBL.BMap_noprint.BMap_cpyCtrl > span
+map.baidu.com##.poi-ads
