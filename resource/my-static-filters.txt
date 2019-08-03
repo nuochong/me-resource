@@ -44,6 +44,8 @@ www.baidu.com###userinfo-wraps
 www.baidu.com###header > div:nth-of-type(6)
 www.baidu.com###foot
 www.baidu.com###bottom_container
+www.baidu.com##div.xpath-log.result-op:nth-of-type(1) > .cr-content
+www.baidu.com##.hint_right_middle
 
 ! 2019/7/21 https://cn.bing.com
 cn.bing.com###b_footer
