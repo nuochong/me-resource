@@ -49,6 +49,7 @@ www.baidu.com##.hint_right_middle
 www.baidu.com##.bdbriimg.bdbri
 www.baidu.com##.bri
 www.baidu.com##.s_bdbriimg.s_bdbri
+www.baidu.com###content_right
 
 ! 2019/7/21 https://cn.bing.com
 cn.bing.com###b_footer
