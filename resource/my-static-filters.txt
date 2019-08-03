@@ -27,6 +27,7 @@ tuku.jia.com##.zx_xrhb
 ! 2019/7/1 https://www.bilibili.com
 www.bilibili.com###fixed_app_download
 www.bilibili.com###entryOld
+www.bilibili.com##.report-wrap-module.bili-footer.footer
 
 ! 2019/7/24 https://search.bilibili.com
 search.bilibili.com##.footer-wrp
