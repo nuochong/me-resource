@@ -14,6 +14,9 @@ cnbeta.com##.article-share-code > label
 cnbeta.com##.pageFooter
 cnbeta.com##.fr
 
+! 2019/8/3 https://www.cnbeta.com
+www.cnbeta.com##div.cnbeta-side-box:nth-of-type(4)
+
 ! 2019/6/1 http://tool.manmanbuy.com
 ||mmbapposs.manmanbuy.com/pc%E5%9B%BE%E6%A0%87-%E4%BA%AC%E4%B8%9C.png?d=Sat%20Jun%2001%202019%2000:36:55%20GMT+0800%20(%D6%D0%B9%FA%B1%EA%D7%BC%CA%B1%BC%E4)$image
 tool.manmanbuy.com##.right_alert_show.right_alert
@@ -41,6 +44,7 @@ www.baidu.com###ftCon
 www.baidu.com###userinfo-wraps
 www.baidu.com###header > div:nth-of-type(6)
 www.baidu.com###foot
+www.baidu.com###bottom_container
 
 ! 2019/7/21 https://cn.bing.com
 cn.bing.com###b_footer
