@@ -18,7 +18,6 @@ cnbeta.com##.fr
 www.cnbeta.com##div.cnbeta-side-box:nth-of-type(4)
 
 ! 2019/6/1 http://tool.manmanbuy.com
-||mmbapposs.manmanbuy.com/pc%E5%9B%BE%E6%A0%87-%E4%BA%AC%E4%B8%9C.png?d=Sat%20Jun%2001%202019%2000:36:55%20GMT+0800%20(%D6%D0%B9%FA%B1%EA%D7%BC%CA%B1%BC%E4)$image
 tool.manmanbuy.com##.right_alert_show.right_alert
 
 ! 2019/6/28 https://tuku.jia.com
@@ -83,6 +82,7 @@ www.jd.com###J_footer
 ! 2019/7/21 https://www.taobao.com
 www.taobao.com###J_SiteFooter
 www.taobao.com##.footer_2014
+www.taobao.com##.J_Helper.helper
 
 ! 2019/7/21 https://login.taobao.com
 login.taobao.com##.footer
