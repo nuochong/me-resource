@@ -99,10 +99,12 @@ passport.jd.com###footer-2013
 
 ! 2019/7/21 https://shoucang.taobao.com
 shoucang.taobao.com##.fav-zuanshi
+shoucang.taobao.com##.page-footer-hidden
 
 ! 2019/7/21 https://t.jd.com
 t.jd.com##.backpanel-inner
 t.jd.com###shareRec
+t.jd.com##.mf-promotion
 
 ! 2019/7/21 https://order.jd.com
 order.jd.com##div.mod-main:nth-of-type(7)
