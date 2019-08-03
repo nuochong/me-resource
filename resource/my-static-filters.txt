@@ -115,3 +115,7 @@ news.sina.com.cn###tab_related
 ! 2019/8/3 https://tianqi.qq.com
 tianqi.qq.com###ct-footer
 tianqi.qq.com###ct-ad
+
+! 2019/8/3 http://www.nmc.cn
+www.nmc.cn###footer
+www.nmc.cn###hotNews
