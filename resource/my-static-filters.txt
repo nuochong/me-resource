@@ -184,3 +184,8 @@ baike.baidu.com###side-share
 
 ! 2019/8/4 https://baijiahao.baidu.com
 baijiahao.baidu.com##.copy-right
+
+! 2019/8/4 https://juejin.im
+juejin.im##.recommend-box
+juejin.im##.request-health-alert
+juejin.im##.book-newuser
