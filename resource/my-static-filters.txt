@@ -13,9 +13,8 @@ www.kancloud.cn##.title
 cnbeta.com##.article-share-code > label
 cnbeta.com##.pageFooter
 cnbeta.com##.fr
-
-! 2019/8/3 https://www.cnbeta.com
-www.cnbeta.com##div.cnbeta-side-box:nth-of-type(4)
+cnbeta.com##.mt5.cnbeta-article-latest
+cnbeta.com##div.cnbeta-side-box:nth-of-type(4)
 
 ! 2019/6/1 http://tool.manmanbuy.com
 tool.manmanbuy.com##.right_alert_show.right_alert
