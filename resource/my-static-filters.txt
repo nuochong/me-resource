@@ -94,6 +94,7 @@ www.jd.com###J_promotional-top
 www.taobao.com###J_SiteFooter
 www.taobao.com##.footer_2014
 www.taobao.com##.J_Helper.helper
+www.taobao.com##.clearfix.tbh-superbanner.J_Module
 
 ! 2019/7/21 https://login.taobao.com
 login.taobao.com##.footer
