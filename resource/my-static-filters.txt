@@ -197,3 +197,5 @@ www.npmjs.com##.mt4.b--black-10.bt.cd2827bb
 gitee.com##.bottombar
 gitee.com###git-footer-main > .container.ui
 gitee.com##.g-wxad__wrapper
+gitee.com##.ent-poster
+gitee.com##.wallet-banner
