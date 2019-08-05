@@ -192,3 +192,7 @@ juejin.im##.book-newuser
 
 ! 2019/8/5 https://www.npmjs.com
 www.npmjs.com##.mt4.b--black-10.bt.cd2827bb
+
+! 2019/8/5 https://gitee.com
+gitee.com##.bottombar
+gitee.com###git-footer-main > .container.ui
