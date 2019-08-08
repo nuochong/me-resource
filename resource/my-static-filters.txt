@@ -200,3 +200,6 @@ gitee.com###git-footer-main > .container.ui
 gitee.com##.g-wxad__wrapper
 gitee.com##.ent-poster
 gitee.com##.wallet-banner
+
+! 2019/8/8 https://buyertrade.taobao.com
+buyertrade.taobao.com##.gul-w-order.J_guess-you-like
