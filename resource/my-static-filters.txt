@@ -224,3 +224,6 @@ bbs.gfan.com###bdshare
 
 ! 2019/8/9 http://k.sina.com.cn
 k.sina.com.cn###tab_related
+
+! 2019/8/9 http://www.mb5u.com
+www.mb5u.com##.fr
