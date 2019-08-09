@@ -233,7 +233,7 @@ www.mb5u.com##.fr
 github.com##.border-gray-light.border-top.text-gray.f6.mt-6.pb-2.pt-6.flex-lg-justify-between.flex-justify-center.flex-lg-nowrap.flex-wrap.flex-lg-row.flex-row-reverse.d-flex.position-relative
 github.com##.border-gray-light.border-top.text-gray.f6.mt-6.pb-2.pt-6.flex-justify-between.d-flex.position-relative
 
-! 2019/8/10 http://news.ceic.ac.cn
+! 2019/8/10 ceic.ac.cn
 ceic.ac.cn##.tencent.weibo
 ceic.ac.cn##.sina.weibo
 ceic.ac.cn##.footer
