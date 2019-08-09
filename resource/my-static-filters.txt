@@ -203,3 +203,20 @@ gitee.com##.wallet-banner
 
 ! 2019/8/8 https://buyertrade.taobao.com
 buyertrade.taobao.com##.gul-w-order.J_guess-you-like
+
+! 2019/8/8 https://www.baidu.com
+www.baidu.com##body > .xpath-log.result-op
+
+! 2019/8/9 http://tieba.baidu.com
+tieba.baidu.com##.nopic.bds_more
+tieba.baidu.com###bdshare > .bds_qzone
+tieba.baidu.com###bdshare > .bds_tsina
+tieba.baidu.com###bdshare > .bds_tqq
+tieba.baidu.com###bdshare > .bds_renren
+tieba.baidu.com###bdshare > .bds_mshare
+tieba.baidu.com##.app_download_box.region_bright
+
+! 2019/8/9 http://bbs.gfan.com
+bbs.gfan.com###ft
+bbs.gfan.com##.cl.hdc > div
+bbs.gfan.com###bdshare
