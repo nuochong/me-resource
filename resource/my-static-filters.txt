@@ -228,3 +228,7 @@ k.sina.com.cn###tab_related
 
 ! 2019/8/9 http://www.mb5u.com
 www.mb5u.com##.fr
+
+! 2019/8/10 https://github.com
+github.com##.border-gray-light.border-top.text-gray.f6.mt-6.pb-2.pt-6.flex-lg-justify-between.flex-justify-center.flex-lg-nowrap.flex-wrap.flex-lg-row.flex-row-reverse.d-flex.position-relative
+github.com##.border-gray-light.border-top.text-gray.f6.mt-6.pb-2.pt-6.flex-justify-between.d-flex.position-relative
