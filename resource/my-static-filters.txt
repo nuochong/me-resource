@@ -150,6 +150,7 @@ map.baidu.com##.poi-ads
 ! 2019/8/4 https://www.jianshu.com
 www.jianshu.com###note-ad
 www.jianshu.com###note-fixed-ad-container
+www.jianshu.com##.note-bottom
 
 ! 2019/8/4 https://segmentfault.com
 segmentfault.com##.job-recommend
@@ -220,3 +221,6 @@ tieba.baidu.com##.app_download_box.region_bright
 bbs.gfan.com###ft
 bbs.gfan.com##.cl.hdc > div
 bbs.gfan.com###bdshare
+
+! 2019/8/9 http://k.sina.com.cn
+k.sina.com.cn###tab_related
