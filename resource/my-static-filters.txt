@@ -18,6 +18,7 @@ cnbeta.com##div.cnbeta-side-box:nth-of-type(4)
 cnbeta.com##.topic
 cnbeta.com##.article-author
 cnbeta.com##.cnbeta-article-vote-tags > h3
+cnbeta.com###rank_box
 
 ! 2019/6/1 http://tool.manmanbuy.com
 tool.manmanbuy.com##.right_alert_show.right_alert
@@ -67,6 +68,7 @@ fanyi.youdao.com##.fanyi__nav__list > li:nth-of-type(2)
 fanyi.youdao.com##.fanyi__nav__list > li:nth-of-type(3)
 fanyi.youdao.com##.fanyi__nav__list > li:nth-of-type(4)
 fanyi.youdao.com##.fanyi__nav__list > li:nth-of-type(5)
+fanyi.youdao.com##.doc__upload--tip
 
 ! 2019/7/21 https://s.taobao.com
 s.taobao.com###srp-footer
