@@ -16,6 +16,8 @@ cnbeta.com##.fr
 cnbeta.com##.mt5.cnbeta-article-latest
 cnbeta.com##div.cnbeta-side-box:nth-of-type(4)
 cnbeta.com##.topic
+cnbeta.com##.article-author
+cnbeta.com##.cnbeta-article-vote-tags > h3
 
 ! 2019/6/1 http://tool.manmanbuy.com
 tool.manmanbuy.com##.right_alert_show.right_alert
