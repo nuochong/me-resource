@@ -243,3 +243,16 @@ ceic.ac.cn##.tencent.weibo
 ceic.ac.cn##.sina.weibo
 ceic.ac.cn##.footer
 ceic.ac.cn##.footer
+
+! 2019/8/10 youku.com
+youku.com##.g-footer
+youku.com##.youku-foot_2B1OU
+
+! 2019/8/10 http://www.iqiyi.com
+www.iqiyi.com###block-AR
+www.iqiyi.com##.top.qy-popup-box > .signin-btn
+
+! 2019/8/10 tudou.com
+tudou.com###pc-footer
+tudou.com##li.td-side-bar-item:nth-of-type(1) > .dropdown__panel
+tudou.com##.td__footer
