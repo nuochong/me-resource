@@ -191,6 +191,7 @@ baike.baidu.com##.wgt-footer-main
 baike.baidu.com##.lemmaWgt-promotion-vbaike
 baike.baidu.com##.lemmaWgt-promotion-slide
 baike.baidu.com###side-share
+baike.baidu.com##.copyright
 
 ! 2019/8/4 https://baijiahao.baidu.com
 baijiahao.baidu.com##.copy-right
@@ -256,3 +257,8 @@ www.iqiyi.com##.top.qy-popup-box > .signin-btn
 tudou.com###pc-footer
 tudou.com##li.td-side-bar-item:nth-of-type(1) > .dropdown__panel
 tudou.com##.td__footer
+
+! 2019/8/11 https://tech.sina.com.cn
+tech.sina.com.cn###tab_related
+tech.sina.com.cn##.clearfix.blk-zcapp
+tech.sina.com.cn##.clearfix.blk-wxfollow
