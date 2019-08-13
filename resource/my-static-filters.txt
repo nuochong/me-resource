@@ -266,3 +266,7 @@ tudou.com##.td__footer
 tech.sina.com.cn###tab_related
 tech.sina.com.cn##.clearfix.blk-zcapp
 tech.sina.com.cn##.clearfix.blk-wxfollow
+
+! 2019/8/13 https://fanyi.baidu.com
+fanyi.baidu.com##.copyright
+fanyi.baidu.com##.follow-wrapper
