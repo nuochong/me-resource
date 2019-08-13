@@ -70,6 +70,10 @@ fanyi.youdao.com##.fanyi__nav__list > li:nth-of-type(4)
 fanyi.youdao.com##.fanyi__nav__list > li:nth-of-type(5)
 fanyi.youdao.com##.doc__upload--tip
 
+! 2019/8/13 http://dict.youdao.com
+dict.youdao.com###follow
+dict.youdao.com###c_footer
+
 ! 2019/7/21 https://s.taobao.com
 s.taobao.com###srp-footer
 s.taobao.com##div.grid-total:nth-of-type(5)
