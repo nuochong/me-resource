@@ -4,6 +4,10 @@
 yq.aliyun.com##.aliyun-delivery-view-close
 ||img.alicdn.com/tfs/TB1kz31IAvoK1RjSZPfXXXPKFXa-312-180.png$image
 yq.aliyun.com##.yq_blog_1545.yq-blog-sem-remove.yq-ads-blog.sign-content
+yq.aliyun.com##.aliyun-delivery-view-container
+yq.aliyun.com##.yq-blog-related-articles
+yq.aliyun.com##.yq-footer-links
+yq.aliyun.com##.yq-blog-detail.yq-main-left > .yq-line
 
 ! 2019/4/11 https://www.kancloud.cn
 www.kancloud.cn##.title
