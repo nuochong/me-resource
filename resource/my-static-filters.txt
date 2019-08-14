@@ -8,6 +8,9 @@ yq.aliyun.com##.aliyun-delivery-view-container
 yq.aliyun.com##.yq-blog-related-articles
 yq.aliyun.com##.yq-footer-links
 yq.aliyun.com##.yq-blog-detail.yq-main-left > .yq-line
+yq.aliyun.com##.link-wrap
+yq.aliyun.com##[href^="http://idinfo.zjaic.gov.cn/bscx.do"]
+yq.aliyun.com##[href^="http://www.beian.gov.cn/portal/registerSystemInfo"]
 
 ! 2019/4/11 https://www.kancloud.cn
 www.kancloud.cn##.title
