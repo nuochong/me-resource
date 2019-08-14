@@ -175,7 +175,15 @@ www.jianshu.com##.note-bottom
 ! 2019/8/4 https://segmentfault.com
 segmentfault.com##.job-recommend
 segmentfault.com##.hidden-xs.hidden-sm.hidden-md.mb25
-segmentfault.com###footer
+segmentfault.com###footer > .container > .hidden-xs.row
+segmentfault.com##.main.col-md-9.col-xs-12 > .mt10.clearfix
+segmentfault.com###side-widget-bookmarks-btn
+segmentfault.com##.item.fa-weibo.fa
+segmentfault.com##.item.fa-weixin.fa
+segmentfault.com##.item.fa-twitter.fa
+segmentfault.com##.item.fa-facebook.fa
+segmentfault.com##.item.fa-arrow-up.fa
+segmentfault.com##.copyright > .mt30
 
 ! 2019/8/4 https://www.jb51.net
 www.jb51.net###footer
