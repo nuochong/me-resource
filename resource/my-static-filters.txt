@@ -11,6 +11,7 @@ yq.aliyun.com##.yq-blog-detail.yq-main-left > .yq-line
 yq.aliyun.com##.link-wrap
 yq.aliyun.com##[href^="http://idinfo.zjaic.gov.cn/bscx.do"]
 yq.aliyun.com##[href^="http://www.beian.gov.cn/portal/registerSystemInfo"]
+yq.aliyun.com##.delivery-banner-activity-wrapper
 
 ! 2019/4/11 https://www.kancloud.cn
 www.kancloud.cn##.title
@@ -286,3 +287,6 @@ tech.sina.com.cn##.clearfix.blk-wxfollow
 ! 2019/8/13 https://fanyi.baidu.com
 fanyi.baidu.com##.copyright
 fanyi.baidu.com##.follow-wrapper
+
+! 2019/8/15 https://www.iconfont.cn
+www.iconfont.cn###magix_vf_tip
