@@ -81,6 +81,8 @@ fanyi.youdao.com##.doc__upload--tip
 ! 2019/8/13 http://dict.youdao.com
 dict.youdao.com###follow
 dict.youdao.com###c_footer
+dict.youdao.com##.win-download.dialog-guide-download
+
 
 ! 2019/7/21 https://s.taobao.com
 s.taobao.com###srp-footer
@@ -172,6 +174,8 @@ map.baidu.com##.poi-ads
 www.jianshu.com###note-ad
 www.jianshu.com###note-fixed-ad-container
 www.jianshu.com##.note-bottom
+www.jianshu.com##.fubiao-dialog
+www.jianshu.com##.note-comment-above-ad-wrap
 
 ! 2019/8/4 https://segmentfault.com
 segmentfault.com##.job-recommend
