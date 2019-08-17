@@ -169,6 +169,8 @@ www.nmc.cn##.nav
 map.baidu.com###message-center
 map.baidu.com##.anchorBL.BMap_noprint.BMap_cpyCtrl > span
 map.baidu.com##.poi-ads
+! 2019/8/17 https://map.baidu.com
+map.baidu.com##.leadDownloadCard
 
 ! 2019/8/4 https://www.jianshu.com
 www.jianshu.com###note-ad
