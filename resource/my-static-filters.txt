@@ -250,6 +250,7 @@ tieba.baidu.com###bdshare > .bds_renren
 tieba.baidu.com###bdshare > .bds_mshare
 tieba.baidu.com##.app_download_box.region_bright
 tieba.baidu.com##.app_download_box.aside_region
+tieba.baidu.com##.cps_wrap
 
 ! 2019/8/9 http://bbs.gfan.com
 bbs.gfan.com###ft
