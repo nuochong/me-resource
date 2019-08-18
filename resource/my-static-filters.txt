@@ -319,6 +319,10 @@ www.cnblogs.com###blog-calendar
 www.cnblogs.com###sidebar_search
 www.cnblogs.com###author_profile
 www.cnblogs.com###green_channel
+www.cnblogs.com###sidebar_recentcomments
+www.cnblogs.com###sidebar_topcommentedposts
+www.cnblogs.com###feedback
+www.cnblogs.com###sidebar_imagecategory
 
 ! 2019/8/18 https://www.w3cschool.cn
 www.w3cschool.cn##.widget-body
