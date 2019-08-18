@@ -309,3 +309,4 @@ www.cnblogs.com###footer_bottom
 www.cnblogs.com###blog-comments-placeholder
 www.cnblogs.com###under_post_kb
 www.cnblogs.com###blog-calendar
+www.cnblogs.com###sidebar_search
