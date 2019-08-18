@@ -44,6 +44,8 @@ tuku.jia.com##.zx_xrhb
 www.bilibili.com###fixed_app_download
 www.bilibili.com###entryOld
 www.bilibili.com##.report-wrap-module.bili-footer.footer
+www.bilibili.com##.bilibili-player-show.bilibili-player-video-top-follow
+www.bilibili.com##.player-tooltips-trigger.bilibili-player-iconfont.bilibili-player-video-top-issue
 
 ! 2019/7/24 https://search.bilibili.com
 search.bilibili.com##.footer-wrp
