@@ -314,3 +314,13 @@ www.cnblogs.com###under_post_kb
 www.cnblogs.com###blog-calendar
 www.cnblogs.com###sidebar_search
 www.cnblogs.com###author_profile
+www.cnblogs.com###green_channel
+
+! 2019/8/18 https://www.w3cschool.cn
+www.w3cschool.cn##.widget-body
+www.w3cschool.cn###pro-footer
+
+! 2019/8/18 https://www.runoob.com
+www.runoob.com##.copyright.w-1000
+www.runoob.com##button.feedback-btn-gray.feedback-btn:nth-of-type(1)
+www.runoob.com##button.feedback-btn-gray.feedback-btn:nth-of-type(2)
