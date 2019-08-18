@@ -285,6 +285,7 @@ news.ceic.ac.cn##.anchorBL.BMap_noprint.BMap_cpyCtrl
 news.ceic.ac.cn###map3 > div:nth-of-type(2) > div > div
 news.ceic.ac.cn##div.gmnoprint:nth-of-type(4)
 news.ceic.ac.cn##.gm-style-cc.gmnoprint
+news.ceic.ac.cn###map1 > div:nth-of-type(2)
 
 ! 2019/8/10 youku.com
 youku.com##.g-footer
