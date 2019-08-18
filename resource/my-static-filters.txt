@@ -119,9 +119,11 @@ www.taobao.com##.clearfix.tbh-superbanner.J_Module
 
 ! 2019/7/21 https://login.taobao.com
 login.taobao.com##.footer
+login.taobao.com##.logo > .link
 
 ! 2019/7/21 https://passport.jd.com
 passport.jd.com###footer-2013
+passport.jd.com##.q-link
 
 ! 2019/7/21 https://shoucang.taobao.com
 shoucang.taobao.com##.fav-zuanshi
