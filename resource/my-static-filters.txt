@@ -337,6 +337,12 @@ www.cnblogs.com###sidebar_topcommentedposts
 www.cnblogs.com###feedback
 www.cnblogs.com###sidebar_imagecategory
 www.cnblogs.com##.footer
+www.cnblogs.com##.catListPostArchive
+www.cnblogs.com##.catListImageCategory
+www.cnblogs.com###sidebar_topviewedposts
+www.cnblogs.com###sidebar_topdiggedposts
+www.cnblogs.com###sidebar_shortcut
+www.cnblogs.com###under_post_news
 
 ! 2019/8/18 https://www.w3cschool.cn
 www.w3cschool.cn##.widget-body
