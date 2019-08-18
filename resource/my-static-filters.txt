@@ -31,6 +31,8 @@ cnbeta.com##.cnbeta-headlines-title
 
 ! 2019/6/1 http://tool.manmanbuy.com
 tool.manmanbuy.com##.right_alert_show.right_alert
+tool.manmanbuy.com##.footer-wrap
+tool.manmanbuy.com##.titleheadRight > div:nth-of-type(2)
 
 ! 2019/6/28 https://tuku.jia.com
 tuku.jia.com##.box_shade
@@ -139,9 +141,6 @@ t.jd.com##.mf-promotion
 
 ! 2019/7/21 https://order.jd.com
 order.jd.com##div.mod-main:nth-of-type(7)
-
-! 2019/7/21 http://tool.manmanbuy.com
-tool.manmanbuy.com##.footer-wrap
 
 ! 2019/7/23 http://ent.ifeng.com
 ent.ifeng.com##.leftContent-1ESnktbA > div:nth-of-type(3)
