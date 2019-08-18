@@ -82,7 +82,7 @@ fanyi.youdao.com##.fanyi__nav__list > li:nth-of-type(4)
 fanyi.youdao.com##.fanyi__nav__list > li:nth-of-type(5)
 fanyi.youdao.com##.doc__upload--tip
 
-! 2019/8/13 http://dict.youdao.com
+! 2019/8/13 http://dict.youdao.comfanyi
 dict.youdao.com###follow
 dict.youdao.com###c_footer
 dict.youdao.com##.win-download.dialog-guide-download
@@ -304,6 +304,9 @@ fanyi.baidu.com##.follow-wrapper
 fanyi.baidu.com##.trans-machine
 fanyi.baidu.com##.simultaneous-interpretation
 fanyi.baidu.com##.download-guide-ul
+fanyi.baidu.com##.manual-trans-info
+fanyi.baidu.com##.download-guide
+fanyi.baidu.com##.extra-wrap
 
 ! 2019/8/15 https://www.iconfont.cn
 www.iconfont.cn###magix_vf_tip
