@@ -27,6 +27,7 @@ cnbeta.com##.topic
 cnbeta.com##.article-author
 cnbeta.com##.cnbeta-article-vote-tags > h3
 cnbeta.com###rank_box
+cnbeta.com##.cnbeta-headlines-title
 
 ! 2019/6/1 http://tool.manmanbuy.com
 tool.manmanbuy.com##.right_alert_show.right_alert
@@ -299,3 +300,9 @@ fanyi.baidu.com##.follow-wrapper
 
 ! 2019/8/15 https://www.iconfont.cn
 www.iconfont.cn###magix_vf_tip
+
+! 2019/8/18 https://www.cnblogs.com
+www.cnblogs.com###footer
+www.cnblogs.com###ad_t2
+www.cnblogs.com###poweredby
+www.cnblogs.com###footer_bottom
