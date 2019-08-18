@@ -66,6 +66,7 @@ www.baidu.com##.s_bdbriimg.s_bdbri
 www.baidu.com###content_right
 www.baidu.com##.rrecom-btn-click.rrecom-btn-moving.rrecom-btn-s.rrecom-btn-parent
 www.baidu.com##body > .xpath-log.result-op
+www.baidu.com##.c-recommend.c-gap-top
 
 ! 2019/7/21 https://cn.bing.com
 cn.bing.com###b_footer
