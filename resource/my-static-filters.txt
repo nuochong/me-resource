@@ -307,6 +307,7 @@ fanyi.baidu.com##.download-guide-ul
 fanyi.baidu.com##.manual-trans-info
 fanyi.baidu.com##.download-guide
 fanyi.baidu.com##.extra-wrap
+fanyi.baidu.com##.icon-manual.manual-trans-btn
 
 ! 2019/8/15 https://www.iconfont.cn
 www.iconfont.cn###magix_vf_tip
