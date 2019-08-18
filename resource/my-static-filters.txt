@@ -306,3 +306,6 @@ www.cnblogs.com###footer
 www.cnblogs.com###ad_t2
 www.cnblogs.com###poweredby
 www.cnblogs.com###footer_bottom
+www.cnblogs.com###blog-comments-placeholder
+www.cnblogs.com###under_post_kb
+www.cnblogs.com###blog-calendar
