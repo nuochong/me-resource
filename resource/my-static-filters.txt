@@ -301,6 +301,9 @@ tech.sina.com.cn##.clearfix.blk-wxfollow
 ! 2019/8/13 https://fanyi.baidu.com
 fanyi.baidu.com##.copyright
 fanyi.baidu.com##.follow-wrapper
+fanyi.baidu.com##.trans-machine
+fanyi.baidu.com##.simultaneous-interpretation
+fanyi.baidu.com##.download-guide-ul
 
 ! 2019/8/15 https://www.iconfont.cn
 www.iconfont.cn###magix_vf_tip
