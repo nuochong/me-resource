@@ -264,6 +264,8 @@ tieba.baidu.com###bdshare > .bds_mshare
 tieba.baidu.com##.app_download_box.region_bright
 tieba.baidu.com##.app_download_box.aside_region
 tieba.baidu.com##.cps_wrap
+tieba.baidu.com##.share_btn_wrapper
+tieba.baidu.com###footer
 
 ! 2019/8/9 http://bbs.gfan.com
 bbs.gfan.com###ft
@@ -368,6 +370,3 @@ vm.tudou.com##.td-footer-creation
 mp.youku.com##.upload_ad
 mp.youku.com##.upload_dayuQr
 mp.youku.com##.tips_box
-
-! 2019/8/21 https://tieba.baidu.com
-tieba.baidu.com##.share_btn_wrapper
