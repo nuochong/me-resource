@@ -376,3 +376,12 @@ www.imooc.com###globalTopBanner
 www.imooc.com##.js-tip.tip
 www.imooc.com###articleDetailRight
 www.imooc.com##a.elevator-dist:nth-of-type(3)
+
+! 2019/8/22 https://stackoverflow.com
+stackoverflow.com###js-gdpr-consent-banner
+
+! 2019/8/22 https://www.extfans.com
+www.extfans.com##.footer
+www.extfans.com##.operate-margin.spread-details-operate
+www.extfans.com##.essay-share-red
+www.extfans.com##.essay-share-block-outer
