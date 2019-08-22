@@ -370,3 +370,9 @@ vm.tudou.com##.td-footer-creation
 mp.youku.com##.upload_ad
 mp.youku.com##.upload_dayuQr
 mp.youku.com##.tips_box
+
+! 2019/8/22 https://www.imooc.com
+www.imooc.com###globalTopBanner
+www.imooc.com##.js-tip.tip
+www.imooc.com###articleDetailRight
+www.imooc.com##a.elevator-dist:nth-of-type(3)
