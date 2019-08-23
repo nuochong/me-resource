@@ -48,6 +48,9 @@ www.bilibili.com##.report-wrap-module.bili-footer.footer
 www.bilibili.com##.bilibili-player-show.bilibili-player-video-top-follow
 www.bilibili.com##.player-tooltips-trigger.bilibili-player-iconfont.bilibili-player-video-top-issue
 
+! 2019/8/23 https://passport.bilibili.com
+passport.bilibili.com##.footer-wrp
+
 ! 2019/7/24 https://search.bilibili.com
 search.bilibili.com##.footer-wrp
 
@@ -379,15 +382,10 @@ www.imooc.com##a.elevator-dist:nth-of-type(3)
 
 ! 2019/8/22 https://stackoverflow.com
 stackoverflow.com###js-gdpr-consent-banner
+stackoverflow.com###footer
 
 ! 2019/8/22 https://www.extfans.com
 www.extfans.com##.footer
 www.extfans.com##.operate-margin.spread-details-operate
 www.extfans.com##.essay-share-red
 www.extfans.com##.essay-share-block-outer
-
-! 2019/8/23 https://passport.bilibili.com
-passport.bilibili.com##.footer-wrp
-
-! 2019/8/23 https://stackoverflow.com
-stackoverflow.com###footer
