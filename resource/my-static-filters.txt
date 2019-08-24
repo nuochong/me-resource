@@ -437,3 +437,15 @@ passport.xiami.com###footer
 ! 2019/8/24 https://www.xiami.com
 www.xiami.com##.download-panel
 www.xiami.com##.xm-footer
+
+! 2019/8/24 https://docs.nativescript.org
+docs.nativescript.org##.row.footer__last-row
+docs.nativescript.org##.footer__form
+docs.nativescript.org##.footer
+
+! 2019/8/24 https://www.nativescript.org
+www.nativescript.org##.-ao-100.-mark-external.-pb4.-pt0.-bg-white.Section.sf_cols
+www.nativescript.org##.-mb8.sf_cols
+
+! 2019/8/24 https://market.nativescript.org
+market.nativescript.org##app-footer
