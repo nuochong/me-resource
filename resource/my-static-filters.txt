@@ -227,6 +227,7 @@ blog.csdn.net##.contact-info
 blog.csdn.net##.feed_copyright
 blog.csdn.net##.allow-info-box
 blog.csdn.net##.box-shadow.mb8.csdn-tracking-statistics
+blog.csdn.net###kp_box_476
 
 ! 2019/8/4 https://baike.baidu.com
 baike.baidu.com##.topA
@@ -285,6 +286,7 @@ www.mb5u.com##.fr
 github.com##.border-gray-light.border-top.text-gray.f6.mt-6.pb-2.pt-6.flex-lg-justify-between.flex-justify-center.flex-lg-nowrap.flex-wrap.flex-lg-row.flex-row-reverse.d-flex.position-relative
 github.com##.border-gray-light.border-top.text-gray.f6.mt-6.pb-2.pt-6.flex-justify-between.d-flex.position-relative
 github.com##.px-0.my-5.container-lg.footer.flex-items-between.d-flex
+github.com##.rounded-1.signup-prompt-bg
 
 ! 2019/8/10 ceic.ac.cn
 ceic.ac.cn##.tencent.weibo
