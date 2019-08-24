@@ -400,3 +400,15 @@ www.zhihu.com##.Footer
 y.qq.com##.player_login__guide
 y.qq.com##.footer
 y.qq.com##.popup_guide
+y.qq.com##li.top_nav__item:nth-of-type(5)
+y.qq.com##li.top_nav__item:nth-of-type(4)
+y.qq.com##.top_nav__item--subnav.top_nav__item
+
+! 2019/8/24 http://bd.kuwo.cn
+bd.kuwo.cn##div:nth-of-type(3) > .copy
+bd.kuwo.cn##.footer
+bd.kuwo.cn##.xiuchang-container
+bd.kuwo.cn##.qrcode-container
+bd.kuwo.cn##.nav > li.item:nth-of-type(5)
+bd.kuwo.cn##.nav > li.item:nth-of-type(4)
+bd.kuwo.cn##.nav > li.item:nth-of-type(3)
