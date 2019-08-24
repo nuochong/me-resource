@@ -228,6 +228,7 @@ blog.csdn.net##.feed_copyright
 blog.csdn.net##.allow-info-box
 blog.csdn.net##.box-shadow.mb8.csdn-tracking-statistics
 blog.csdn.net###kp_box_476
+blog.csdn.net###shareSuggest
 
 ! 2019/8/4 https://baike.baidu.com
 baike.baidu.com##.topA
@@ -391,3 +392,11 @@ www.extfans.com##.footer
 www.extfans.com##.operate-margin.spread-details-operate
 www.extfans.com##.essay-share-red
 www.extfans.com##.essay-share-block-outer
+
+! 2019/8/24 https://www.zhihu.com
+www.zhihu.com##.Footer
+
+! 2019/8/24 https://y.qq.com
+y.qq.com##.player_login__guide
+y.qq.com##.footer
+y.qq.com##.popup_guide
