@@ -272,6 +272,11 @@ tieba.baidu.com##.cps_wrap
 tieba.baidu.com##.share_btn_wrapper
 tieba.baidu.com###footer
 
+tieba.baidu.com###forum_recommend
+tieba.baidu.com##.footer
+tieba.baidu.com###spage-tbshare-container
+tieba.baidu.com##.app_download_box
+
 ! 2019/8/9 http://bbs.gfan.com
 bbs.gfan.com###ft
 bbs.gfan.com##.cl.hdc > div
