@@ -412,3 +412,23 @@ bd.kuwo.cn##.qrcode-container
 bd.kuwo.cn##.nav > li.item:nth-of-type(5)
 bd.kuwo.cn##.nav > li.item:nth-of-type(4)
 bd.kuwo.cn##.nav > li.item:nth-of-type(3)
+
+! 2019/8/24 http://music.taihe.com
+music.taihe.com###__qianqian_pop
+music.taihe.com##.layout-footer_taihe.clearfix.music-foot
+music.taihe.com##.__qianqian_qrcode
+music.taihe.com##footer
+music.taihe.com##.feed-main
+music.taihe.com###download-clients
+
+! 2019/8/24 http://fm.taihe.com
+fm.taihe.com###fm-panel > .fm-footer
+! 2019/8/24 http://play.taihe.com
+play.taihe.com##.column4.mb-layout-bd
+
+! 2019/8/24 https://passport.xiami.com
+passport.xiami.com###footer
+
+! 2019/8/24 https://www.xiami.com
+www.xiami.com##.download-panel
+www.xiami.com##.xm-footer
