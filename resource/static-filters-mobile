@@ -1,7 +1,11 @@
 ! 2019/8/25 https://m.baidu.com
 m.baidu.com##.square-banner-bgicon.index-banner
-m.baidu.com###header > div:nth-of-type(6)
+
 m.baidu.com###page-copyright
 m.baidu.com###foot
+m.baidu.com###header > div:nth-of-type(6)
 
-contents.internet.apps.samsung.com##.template-type-2
+contents.internet.apps.samsung.com##li.template-type-2.template-item
+
+! 2019/8/25 https://contents.internet.apps.samsung.com
+!contents.internet.apps.samsung.com##li.template-type-5.template-item:nth-of-type(4)
