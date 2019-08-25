@@ -1,0 +1,5 @@
+! 2019/8/25 https://m.baidu.com
+m.baidu.com##.square-banner-bgicon.index-banner
+m.baidu.com###header > div:nth-of-type(6)
+m.baidu.com###page-copyright
+m.baidu.com###foot
