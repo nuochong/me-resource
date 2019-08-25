@@ -170,6 +170,14 @@ taobao.com###tstart
 
 ! 2019/7/23 http://news.sina.com.cn
 news.sina.com.cn###tab_related
+news.sina.com.cn##.clearfix.blk-wxfollow
+news.sina.com.cn##.side-btns-2w
+news.sina.com.cn##.new-media-lab
+news.sina.com.cn##.nav-link-box
+news.sina.com.cn##.copy-right
+news.sina.com.cn##.view-module
+news.sina.com.cn##.report-infor
+news.sina.com.cn##.article-content-right > .right-tlt
 
 ! 2019/8/3 https://tianqi.qq.com
 tianqi.qq.com###ct-footer
@@ -217,6 +225,8 @@ jingyan.baidu.com##.magzine-list
 
 ! 2019/8/4 https://zhidao.baidu.com
 zhidao.baidu.com##.wgt-footer-new
+zhidao.baidu.com##.question-number-text-chain
+zhidao.baidu.com##.zhidao-app.menu-right-list-item
 
 ! 2019/8/4 https://www.v2ex.com
 www.v2ex.com###Bottom
@@ -398,9 +408,6 @@ www.extfans.com##.operate-margin.spread-details-operate
 www.extfans.com##.essay-share-red
 www.extfans.com##.essay-share-block-outer
 
-! 2019/8/24 https://www.zhihu.com
-www.zhihu.com##.Footer
-
 ! 2019/8/24 https://y.qq.com
 y.qq.com##.player_login__guide
 y.qq.com##.footer
@@ -449,3 +456,32 @@ www.nativescript.org##.-mb8.sf_cols
 
 ! 2019/8/24 https://market.nativescript.org
 market.nativescript.org##app-footer
+
+! 2019/8/25 https://www.douban.com
+www.douban.com###footer
+
+! 2019/8/25 https://movie.douban.com
+movie.douban.com###footer
+movie.douban.com##.mod.contact
+movie.douban.com###contact-and-cooperation
+
+! 2019/8/25 https://bbs.hupu.com
+bbs.hupu.com##.hp-footer
+bbs.hupu.com###shareTo
+
+! 2019/8/25 https://weibo.com
+weibo.com###pl_common_footer
+weibo.com##.S_bg2.WB_footer
+weibo.com##div.clearfix.PCD_mplayer:nth-of-type(2)
+
+! 2019/8/25 https://ting.weibo.com
+ting.weibo.com##div.clearfix.W_main:nth-of-type(3)
+ting.weibo.com##div.W_main:nth-of-type(6)
+ting.weibo.com##.footer
+ting.weibo.com##body > div:nth-of-type(11)
+
+! 2019/8/25 https://www.zhihu.com
+www.zhihu.com##.ExploreHomePage-footer.PageBottomFooter
+www.zhihu.com##.SignFlowHomepage-footer
+www.zhihu.com##div.Card:nth-of-type(5)
+www.zhihu.com##.Footer
