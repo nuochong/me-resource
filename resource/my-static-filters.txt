@@ -474,6 +474,10 @@ bbs.hupu.com###shareTo
 weibo.com###pl_common_footer
 weibo.com##.S_bg2.WB_footer
 weibo.com##div.clearfix.PCD_mplayer:nth-of-type(2)
+weibo.com##.key
+
+! 2019/8/25 https://krcom.cn
+krcom.cn##.V_footer
 
 ! 2019/8/25 https://ting.weibo.com
 ting.weibo.com##div.clearfix.W_main:nth-of-type(3)
