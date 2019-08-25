@@ -188,6 +188,7 @@ tianqi.qq.com###ct-pop-mobile
 www.nmc.cn###footer
 www.nmc.cn###hotNews
 www.nmc.cn##.nav
+www.nmc.cn##div.toolbar:nth-of-type(4)
 
 ! 2019/8/4 https://map.baidu.com
 map.baidu.com###message-center
