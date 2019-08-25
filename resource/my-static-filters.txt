@@ -240,6 +240,13 @@ blog.csdn.net##.allow-info-box
 blog.csdn.net##.box-shadow.mb8.csdn-tracking-statistics
 blog.csdn.net###kp_box_476
 blog.csdn.net###shareSuggest
+blog.csdn.net##div.slide-outer.right_extension:nth-of-type(4)
+blog.csdn.net###asideFooter
+
+! 2019/8/25 https://www.csdn.net
+www.csdn.net##.csdn-tracking-statistics.footer_box.right_box
+www.csdn.net##.right_top.slide-outer
+www.csdn.net##aside > .slide-outer.right_extension
 
 ! 2019/8/4 https://baike.baidu.com
 baike.baidu.com##.topA
@@ -490,3 +497,8 @@ www.zhihu.com##.ExploreHomePage-footer.PageBottomFooter
 www.zhihu.com##.SignFlowHomepage-footer
 www.zhihu.com##div.Card:nth-of-type(5)
 www.zhihu.com##.Footer
+
+! 2019/8/25 https://xin.baidu.com
+xin.baidu.com##.clue-wrap
+xin.baidu.com##.questionnaire-box
+xin.baidu.com##.footer
