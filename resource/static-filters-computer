@@ -252,11 +252,23 @@ blog.csdn.net###kp_box_476
 blog.csdn.net###shareSuggest
 blog.csdn.net##div.slide-outer.right_extension:nth-of-type(4)
 blog.csdn.net###asideFooter
+blog.csdn.net##.article-copyright
 
 ! 2019/8/25 https://www.csdn.net
 www.csdn.net##.csdn-tracking-statistics.footer_box.right_box
 www.csdn.net##.right_top.slide-outer
 www.csdn.net##aside > .slide-outer.right_extension
+
+! 2019/8/26 https://bbs.csdn.net
+bbs.csdn.net###totast-js
+bbs.csdn.net##.persion_article
+
+! 2019/8/26 https://download.csdn.net
+download.csdn.net##.wrapper.carousel_box
+download.csdn.net##.indexSuperise
+
+! 2019/8/26 https://passport.csdn.net
+passport.csdn.net##.pub_fo.footer-box.bottom-pub-footer
 
 ! 2019/8/4 https://baike.baidu.com
 baike.baidu.com##.topA
@@ -419,6 +431,7 @@ www.imooc.com##a.elevator-dist:nth-of-type(3)
 ! 2019/8/22 https://stackoverflow.com
 stackoverflow.com###js-gdpr-consent-banner
 stackoverflow.com###footer
+stackoverflow.com###hot-network-questions
 
 ! 2019/8/22 https://www.extfans.com
 www.extfans.com##.footer
