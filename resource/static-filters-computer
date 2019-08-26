@@ -231,6 +231,7 @@ jingyan.baidu.com###top-nav-bar > .warning-warpper
 jingyan.baidu.com##.body-wrapper > .warning-warpper
 jingyan.baidu.com##div.aside-wrap:nth-of-type(3)
 jingyan.baidu.com##.wgt-income-money
+jingyan.baidu.com##.feedback
 
 ! 2019/8/4 https://zhidao.baidu.com
 zhidao.baidu.com##.wgt-footer-new
