@@ -601,3 +601,9 @@ blog.sina.com.cn##.pdps-right-01
 blog.sina.com.cn##.official-media
 blog.sina.com.cn###sinablogfooter
 blog.sina.com.cn###module_47
+
+! 2019/8/26 http://www.360doc.com
+www.360doc.com##.ul-similar
+www.360doc.com##div.str_border:nth-of-type(5)
+www.360doc.com##.docsharelist
+www.360doc.com##.f_right.head_talk
