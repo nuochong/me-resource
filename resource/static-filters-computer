@@ -223,6 +223,8 @@ www.jb51.net##.mb10.header > .wrap
 www.jb51.net##.topTools
 www.jb51.net##.header > .wrap
 www.jb51.net##.f12.footer
+www.jb51.net##body > .wrap
+www.jb51.net##div.borderTblue.bgf.mt10.tabTitleBar:nth-of-type(6)
 
 ! 2019/8/4 https://jingyan.baidu.com
 jingyan.baidu.com###fresh-share-exp-e
@@ -241,6 +243,7 @@ zhidao.baidu.com##.zhidao-app.menu-right-list-item
 
 ! 2019/8/4 https://www.v2ex.com
 www.v2ex.com###Bottom
+www.v2ex.com##div.box:nth-of-type(6)
 
 ! 2019/8/4 https://blog.csdn.net
 blog.csdn.net###footer-contact-box
@@ -527,3 +530,11 @@ www.zhihu.com##.Footer
 xin.baidu.com##.clue-wrap
 xin.baidu.com##.questionnaire-box
 xin.baidu.com##.footer
+
+! 2019/8/27 http://blog.sina.com.cn
+blog.sina.com.cn###sinablogfooter
+blog.sina.com.cn###module_47
+
+! 2019/8/27 https://ask.dcloud.net.cn
+ask.dcloud.net.cn##.aw-footer
+ask.dcloud.net.cn##.aw-wecenter.links
