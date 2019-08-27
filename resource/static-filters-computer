@@ -528,10 +528,6 @@ xin.baidu.com##.clue-wrap
 xin.baidu.com##.questionnaire-box
 xin.baidu.com##.footer
 
-! 2019/8/27 http://blog.sina.com.cn
-blog.sina.com.cn###sinablogfooter
-blog.sina.com.cn###module_47
-
 ! 2019/8/27 https://www.v2ex.com
 www.v2ex.com##div.box:nth-of-type(6)
 
@@ -580,3 +576,28 @@ blog.51cto.com##.special-column
 dict.cn###footer
 dict.cn##.copyright
 dict.cn###dshared
+
+! 2019/8/27 https://www.iteye.com
+iteye.com###footer
+www.iteye.com###guest_books
+www.iteye.com###user_visits
+www.iteye.com###album_detail_wrap
+www.iteye.com##center
+www.iteye.com##div.tuiguang:nth-of-type(1)
+www.iteye.com##div.tuiguang:nth-of-type(2)
+www.iteye.com##div#groups.box:nth-of-type(7)
+www.iteye.com###related_topics
+
+! 2019/8/27 http://blog.sina.com.cn
+blog.sina.com.cn###tj_relatedReading
+blog.sina.com.cn##.sinafooter
+blog.sina.com.cn###dbox_8a122dcf0102x9vy
+blog.sina.com.cn###share
+blog.sina.com.cn##div.info_list:nth-of-type(5)
+blog.sina.com.cn##.blog-app-promotion-wrapper
+blog.sina.com.cn##.app-qr
+blog.sina.com.cn##.top-ad-info
+blog.sina.com.cn##.pdps-right-01
+blog.sina.com.cn##.official-media
+blog.sina.com.cn###sinablogfooter
+blog.sina.com.cn###module_47
