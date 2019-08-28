@@ -434,6 +434,10 @@ www.imooc.com##.cat-box
 stackoverflow.com###js-gdpr-consent-banner
 stackoverflow.com###footer
 stackoverflow.com###hot-network-questions
+stackoverflow.com##.mb16.s-anchors__default.s-anchors.s-sidebarwidget__yellow.s-sidebarwidget
+stackoverflow.com###wmd-preview
+stackoverflow.com##.bottom-notice
+stackoverflow.com##li:nth-of-type(3) > .nav-links
 
 ! 2019/8/22 https://www.extfans.com
 www.extfans.com##.footer
