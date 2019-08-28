@@ -244,7 +244,6 @@ www.v2ex.com###Bottom
 
 ! 2019/8/4 https://blog.csdn.net
 csdn.net##.bdsug_copy
-! csdn.net##.persion_article
 csdn.net##.pub_fo.footer-box.bottom-pub-footer
 blog.csdn.net###footer-contact-box
 blog.csdn.net##.contact-info
@@ -270,6 +269,10 @@ bbs.csdn.net###totast-js
 ! 2019/8/26 https://download.csdn.net
 download.csdn.net##.wrapper.carousel_box
 download.csdn.net##.indexSuperise
+
+! 2019/8/28 https://blog.csdn.net
+csdn.net##.bg-gray
+csdn.net##.allow-info-box
 
 ! 2019/8/4 https://baike.baidu.com
 baike.baidu.com##.topA
