@@ -245,10 +245,6 @@ www.v2ex.com###Bottom
 ! 2019/8/4 https://blog.csdn.net
 csdn.net##.bdsug_copy
 csdn.net##.pub_fo.footer-box.bottom-pub-footer
-blog.csdn.net###footer-contact-box
-blog.csdn.net##.contact-info
-blog.csdn.net##.feed_copyright
-blog.csdn.net##.allow-info-box
 blog.csdn.net##.box-shadow.mb8.csdn-tracking-statistics
 blog.csdn.net###kp_box_476
 blog.csdn.net###shareSuggest
@@ -256,7 +252,6 @@ blog.csdn.net##div.slide-outer.right_extension:nth-of-type(4)
 blog.csdn.net###asideFooter
 blog.csdn.net##.article-copyright
 blog.csdn.net##.blog-expert-recommend-box.recommend-item-box
-
 
 ! 2019/8/25 https://www.csdn.net
 www.csdn.net##.right_top.slide-outer
