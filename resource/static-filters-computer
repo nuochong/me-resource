@@ -245,6 +245,9 @@ www.v2ex.com###Bottom
 ! 2019/8/4 https://blog.csdn.net
 csdn.net##.bdsug_copy
 csdn.net##.pub_fo.footer-box.bottom-pub-footer
+csdn.net##.bg-gray
+csdn.net##.allow-info-box
+
 blog.csdn.net##.box-shadow.mb8.csdn-tracking-statistics
 blog.csdn.net###kp_box_476
 blog.csdn.net###shareSuggest
@@ -252,6 +255,7 @@ blog.csdn.net##div.slide-outer.right_extension:nth-of-type(4)
 blog.csdn.net###asideFooter
 blog.csdn.net##.article-copyright
 blog.csdn.net##.blog-expert-recommend-box.recommend-item-box
+blog.csdn.net##.article_info_click
 
 ! 2019/8/25 https://www.csdn.net
 www.csdn.net##.right_top.slide-outer
@@ -263,10 +267,6 @@ bbs.csdn.net###totast-js
 ! 2019/8/26 https://download.csdn.net
 download.csdn.net##.wrapper.carousel_box
 download.csdn.net##.indexSuperise
-
-! 2019/8/28 https://blog.csdn.net
-csdn.net##.bg-gray
-csdn.net##.allow-info-box
 
 ! 2019/8/4 https://baike.baidu.com
 baike.baidu.com##.topA
@@ -283,6 +283,10 @@ baijiahao.baidu.com##.copy-right
 juejin.im##.recommend-box
 juejin.im##.request-health-alert
 juejin.im##.book-newuser
+juejin.im##.panel-btn.share-btn.wechat-btn
+juejin.im##.panel-btn.share-btn.qq-btn
+juejin.im##.panel-btn.share-btn.weibo-btn
+juejin.im##.share-title
 
 ! 2019/8/5 https://www.npmjs.com
 www.npmjs.com##.mt4.b--black-10.bt.cd2827bb
@@ -551,6 +555,7 @@ oomake.com##.aw-footer-wrap
 cloud.tencent.com##.large-width.com-2-footer.J-footer
 cloud.tencent.com##.com-event-panel
 cloud.tencent.com##.com-widget-global
+cloud.tencent.com##.extra-cnt
 
 ! 2019/8/27 https://wenku.baidu.com
 wenku.baidu.com###ft
