@@ -438,6 +438,7 @@ stackoverflow.com##.mb16.s-anchors__default.s-anchors.s-sidebarwidget__yellow.s-
 stackoverflow.com###wmd-preview
 stackoverflow.com##.bottom-notice
 stackoverflow.com##li:nth-of-type(3) > .nav-links
+stackoverflow.com###newsletter-ad
 
 ! 2019/8/22 https://www.extfans.com
 www.extfans.com##.footer
