@@ -319,6 +319,7 @@ tieba.baidu.com###forum_recommend
 tieba.baidu.com##.footer
 tieba.baidu.com###spage-tbshare-container
 tieba.baidu.com##.app_download_box
+tieba.baidu.com##.gray-text
 
 ! 2019/8/9 http://bbs.gfan.com
 bbs.gfan.com###ft
@@ -618,6 +619,3 @@ www.360doc.com##.ul-similar
 www.360doc.com##div.str_border:nth-of-type(5)
 www.360doc.com##.docsharelist
 www.360doc.com##.f_right.head_talk
-
-! 2019/8/29 http://tieba.baidu.com
-tieba.baidu.com##.gray-text
