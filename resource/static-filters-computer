@@ -49,6 +49,12 @@ www.bilibili.com##.report-wrap-module.bili-footer.footer
 www.bilibili.com##.bilibili-player-show.bilibili-player-video-top-follow
 www.bilibili.com##.player-tooltips-trigger.bilibili-player-iconfont.bilibili-player-video-top-issue
 
+! 2019/8/29 https://www.bilibili.com
+www.bilibili.com##.b-footer-wrap.partner
+www.bilibili.com##.b-footer-wrap.link-box
+www.bilibili.com##.international-footer
+www.bilibili.com##.inside-wrp
+
 ! 2019/8/23 https://passport.bilibili.com
 passport.bilibili.com##.footer-wrp
 
