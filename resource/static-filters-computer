@@ -31,7 +31,6 @@ cnbeta.com##.cnbeta-headlines-title
 cnbeta.com##div[style="display:block !important;position:fixed;bottom:0;margin-top:10px;width:100%;background:#c44;color:#fff;font-size:15px;z-index:99999"]
 www.cnbeta.com##.item > .meta-data > .status > .b
 
-
 ! 2019/6/1 http://tool.manmanbuy.com
 tool.manmanbuy.com##.right_alert_show.right_alert
 tool.manmanbuy.com##.footer-wrap
@@ -619,3 +618,6 @@ www.360doc.com##.ul-similar
 www.360doc.com##div.str_border:nth-of-type(5)
 www.360doc.com##.docsharelist
 www.360doc.com##.f_right.head_talk
+
+! 2019/8/29 http://tieba.baidu.com
+tieba.baidu.com##.gray-text
