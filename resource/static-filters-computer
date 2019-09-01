@@ -114,6 +114,11 @@ dict.youdao.com##.win-download.dialog-guide-download
 ! 2019/7/21 https://s.taobao.com
 s.taobao.com###srp-footer
 s.taobao.com##div.grid-total:nth-of-type(5)
+s.taobao.com###J_FeedbackExperience
+s.taobao.com##.help
+s.taobao.com###J_imgsearchTips
+s.taobao.com##.advise-side-suggest.advice
+s.taobao.com##.history
 
 ! 2019/7/21 https://search.jd.com
 search.jd.com##.bottom-search
@@ -129,6 +134,14 @@ detail.tmall.com###footer
 detail.tmall.com##.mui-mbarp-qrcode
 detail.tmall.com###official-remind
 detail.tmall.com###tstart
+detail.tmall.com###J_TabRecommends
+detail.tmall.com##.tm-layout
+detail.tmall.com###J_SellerInfo
+detail.tmall.com###J_TmallApkRateTab
+detail.tmall.com##.rate-tryreport
+detail.tmall.com###J_ServiceTab
+detail.tmall.com##.mui-mbar-tab-ue.mui-mbar-tab
+detail.tmall.com##.mui-mbar-tab-qrcode.mui-mbar-tab
 
 ! 2019/7/21 https://item.taobao.com
 item.taobao.com###official-remind
@@ -178,6 +191,8 @@ ent.ifeng.com##.box-1F3p1j_9
 jd.com###footer-2017
 jd.com###service-2017
 jd.com##.fixed.jTdCode
+jd.com##.jdm-tbar-tab-qrcode.jdm-toolbar-tab.J-trigger
+jd.com##.jdm-tbar-tab-feedback.jdm-toolbar-tab.J-trigger
 
 ! 2019/7/21 taobao.com
 taobao.com##.tb-footer
