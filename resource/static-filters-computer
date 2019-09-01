@@ -438,6 +438,11 @@ www.cnblogs.com###under_post_news
 ! 2019/8/18 https://www.w3cschool.cn
 www.w3cschool.cn##.widget-body
 www.w3cschool.cn###pro-footer
+www.w3school.com.cn###ad
+www.w3school.com.cn###footer
+www.w3school.com.cn###link_about
+www.w3school.com.cn##h2#link_help:nth-of-type(3)
+www.w3school.com.cn##h2#link_help:nth-of-type(4)
 
 ! 2019/8/18 https://www.runoob.com
 www.runoob.com##.copyright.w-1000
