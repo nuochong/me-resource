@@ -89,6 +89,7 @@ www.baidu.com##.rrecom-btn-click.rrecom-btn-moving.rrecom-btn-s.rrecom-btn-paren
 www.baidu.com##body > .xpath-log.result-op
 www.baidu.com##.c-recommend.c-gap-top
 www.baidu.com##a.mnav:nth-of-type(2)
+www.baidu.com##.toindex
 
 ! 2019/7/21 https://cn.bing.com
 cn.bing.com###b_footer
