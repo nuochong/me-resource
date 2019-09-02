@@ -362,6 +362,10 @@ csdn.net##.bdsug_copy
 csdn.net##.pub_fo.footer-box.bottom-pub-footer
 csdn.net##.bg-gray
 csdn.net##.allow-info-box
+csdn.net##a.option-box:nth-of-type(1)
+csdn.net##a.option-box:nth-of-type(2)
+csdn.net##a.option-box:nth-of-type(3)
+csdn.net##a.option-box:nth-of-type(4)
 
 blog.csdn.net##.box-shadow.mb8.csdn-tracking-statistics
 blog.csdn.net###kp_box_476
@@ -371,10 +375,6 @@ blog.csdn.net###asideFooter
 blog.csdn.net##.article-copyright
 blog.csdn.net##.blog-expert-recommend-box.recommend-item-box
 blog.csdn.net##.article_info_click
-blog.csdn.net##a.option-box:nth-of-type(1)
-blog.csdn.net##a.option-box:nth-of-type(2)
-blog.csdn.net##a.option-box:nth-of-type(3)
-blog.csdn.net##a.option-box:nth-of-type(4)
 
 ! 2019/8/25 https://www.csdn.net
 www.csdn.net##.right_top.slide-outer
