@@ -104,7 +104,6 @@ www.baidu.com##a.mnav:nth-of-type(2)
 www.baidu.com##.toindex
 www.baidu.com##.footer
 www.baidu.com##.tools
-www.baidu.com###s_tab
 
 ! 2019/7/21 https://cn.bing.com
 cn.bing.com###b_footer
@@ -259,7 +258,7 @@ zhidao.baidu.com##.question-number-text-chain
 zhidao.baidu.com##.zhidao-app.menu-right-list-item
 zhidao.baidu.com###footer
 zhidao.baidu.com##.aside-inner
-zhidao.baidu.com###bottom-ask-btn
+zhidao.baidu.com###bottom-ask-btnidu
 zhidao.baidu.com##.fixheight.aside
 
 ! 2019/8/4 https://baike.baidu.com
