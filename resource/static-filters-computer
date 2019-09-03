@@ -174,6 +174,7 @@ item.taobao.com###official-remind
 www.jd.com##.mod_copyright
 www.jd.com###J_footer
 www.jd.com###J_promotional-top
+www.jd.com###J_fs_act_lk
 
 ! 2019/7/21 https://www.taobao.com
 www.taobao.com###J_SiteFooter
@@ -303,6 +304,7 @@ tieba.baidu.com###tofrs_up
 tieba.baidu.com##.tbui_fbar_favor.tbui_aside_fbar_button
 tieba.baidu.com##.tbui_fbar_down.tbui_aside_fbar_button
 tieba.baidu.com##.tbui_fbar_share.tbui_aside_fbar_button
+tieba.baidu.com##.tbui_fbar_feedback.tbui_aside_fbar_button
 
 ! 2019/8/13 https://fanyi.baidu.com
 fanyi.baidu.com##.copyright
@@ -723,6 +725,7 @@ tool.oschina.net###footer
 
 ! 2019/9/1 https://my.oschina.net
 my.oschina.net###copyright
+my.oschina.net##.bdshare-button-style0-16.left-menu.reset.bdsharebuttonbox
 
 ! 2019/9/2 https://www.xiaobaipan.com
 www.xiaobaipan.com##.text-center.post-promo
