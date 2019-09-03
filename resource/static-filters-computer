@@ -55,6 +55,15 @@ www.cnbeta.com##.item > .meta-data > .status > .b
 tool.manmanbuy.com##.right_alert_show.right_alert
 tool.manmanbuy.com##.footer-wrap
 tool.manmanbuy.com##.titleheadRight > div:nth-of-type(2)
+tool.manmanbuy.com##.cumenu
+tool.manmanbuy.com##.note>p
+tool.manmanbuy.com##.downAPP
+tool.manmanbuy.com##.a-setalert
+tool.manmanbuy.com##.alert
+tool.manmanbuy.com##.tags-bijia.tags
+tool.manmanbuy.com##.feedback
+tool.manmanbuy.com###menupinpai
+tool.manmanbuy.com##.linkbox
 
 ! 2019/6/28 https://tuku.jia.com
 tuku.jia.com##.box_shade
