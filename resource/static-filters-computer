@@ -113,6 +113,9 @@ www.baidu.com##a.mnav:nth-of-type(2)
 www.baidu.com##.toindex
 www.baidu.com##.footer
 www.baidu.com##.tools
+www.baidu.com##.ecl-vmp-cat-list
+www.baidu.com##.show.ecl-vmp-cat
+www.baidu.com##.f13 > .c-icons-outer
 
 ! 2019/7/21 https://cn.bing.com
 cn.bing.com###b_footer
