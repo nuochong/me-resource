@@ -128,12 +128,15 @@ fanyi.youdao.com##.fanyi__nav__list > li:nth-of-type(4)
 fanyi.youdao.com##.fanyi__nav__list > li:nth-of-type(5)
 fanyi.youdao.com##.doc__upload--tip
 fanyi.youdao.com###transMan
+fanyi.youdao.com##.resource
 
 ! 2019/8/13 http://dict.youdao.comfanyi
 dict.youdao.com###follow
 dict.youdao.com###c_footer
 dict.youdao.com##.win-download.dialog-guide-download
 dict.youdao.com##.dict-votebar
+dict.youdao.com###nav
+dict.youdao.com##.c-sust
 
 
 ! 2019/7/21 https://s.taobao.com
@@ -262,6 +265,15 @@ jingyan.baidu.com##div.aside-wrap:nth-of-type(3)
 jingyan.baidu.com##.wgt-income-money
 jingyan.baidu.com##.feedback
 jingyan.baidu.com##.new-icon
+jingyan.baidu.com##.origin-notice.f12
+jingyan.baidu.com##.prompt
+jingyan.baidu.com###wgt-comments
+jingyan.baidu.com##.tag-explist
+jingyan.baidu.com##.s-tools
+jingyan.baidu.com##.audio-wp-1.audio-wp
+jingyan.baidu.com###w-share
+jingyan.baidu.com##li.related-exp-link > .has-img
+jingyan.baidu.com###exp-msgbox-wrapper
 
 ! 2019/8/4 https://zhidao.baidu.com
 zhidao.baidu.com##.wgt-footer-new
@@ -342,6 +354,10 @@ www.jianshu.com###note-fixed-ad-container
 www.jianshu.com##.note-bottom
 www.jianshu.com##.fubiao-dialog
 www.jianshu.com##.note-comment-above-ad-wrap
+www.jianshu.com##footer.container
+www.jianshu.com##.nqzzJ71pC-jOnJKAfdtr6_0
+www.jianshu.com###web-nav-app-download-btn
+www.jianshu.com###share > .function-button
 
 ! 2019/8/4 https://segmentfault.com
 segmentfault.com##.job-recommend
@@ -378,7 +394,14 @@ csdn.net##a.option-box:nth-of-type(1)
 csdn.net##a.option-box:nth-of-type(2)
 csdn.net##a.option-box:nth-of-type(3)
 csdn.net##a.option-box:nth-of-type(4)
+csdn.net##.app-app.app-control
+csdn.net##.app-edu.app-control
+csdn.net##.app-gitchat.app-control
+csdn.net##li:nth-of-type(14)
+csdn.net##.vip-caise
+csdn.net###nav-left-menu > li:nth-of-type(9)
 
+blog.csdn.net##.follow-nickName
 blog.csdn.net##.box-shadow.mb8.csdn-tracking-statistics
 blog.csdn.net###kp_box_476
 blog.csdn.net###shareSuggest
@@ -538,6 +561,8 @@ www.imooc.com##.adver-con
 www.imooc.com##.detail-content-wrap > .praise-box
 www.imooc.com##.cat-box
 www.imooc.com###septemberSchool
+www.imooc.com##.js-active-fixed.active-box
+www.imooc.com###J_GotoTop
 
 ! 2019/8/22 https://stackoverflow.com
 stackoverflow.com###js-gdpr-consent-banner
