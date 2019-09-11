@@ -118,141 +118,6 @@ www.baidu.com##.show.ecl-vmp-cat
 www.baidu.com##.f13 > .c-icons-outer
 www.baidu.com##.op-tieba-general-mainpl.c-showurl
 
-! 2019/7/21 https://cn.bing.com
-cn.bing.com###b_footer
-
-! 2019/7/21 http://fanyi.youdao.com
-fanyi.youdao.com##.inside__products
-fanyi.youdao.com##.side__nav
-fanyi.youdao.com##.fanyi__footer
-fanyi.youdao.com##.fanyi__nav__list > li:nth-of-type(1)
-fanyi.youdao.com##.fanyi__nav__list > li:nth-of-type(2)
-fanyi.youdao.com##.fanyi__nav__list > li:nth-of-type(3)
-fanyi.youdao.com##.fanyi__nav__list > li:nth-of-type(4)
-fanyi.youdao.com##.fanyi__nav__list > li:nth-of-type(5)
-fanyi.youdao.com##.doc__upload--tip
-fanyi.youdao.com###transMan
-fanyi.youdao.com##.resource
-
-! 2019/8/13 http://dict.youdao.comfanyi
-dict.youdao.com###follow
-dict.youdao.com###c_footer
-dict.youdao.com##.win-download.dialog-guide-download
-dict.youdao.com##.dict-votebar
-dict.youdao.com###nav
-dict.youdao.com##.c-sust
-
-
-! 2019/7/21 https://s.taobao.com
-s.taobao.com###srp-footer
-s.taobao.com##div.grid-total:nth-of-type(5)
-s.taobao.com###J_FeedbackExperience
-s.taobao.com##.help
-s.taobao.com###J_imgsearchTips
-s.taobao.com##.advise-side-suggest.advice
-s.taobao.com##.history
-
-! 2019/7/21 https://search.jd.com
-search.jd.com##.bottom-search
-search.jd.com##div.w:nth-of-type(9)
-search.jd.com##.qrcode-container
-
-! 2019/7/21 https://item.jd.com
-item.jd.com###GLOBAL_FOOTER
-item.jd.com###toolbar-qrcode
-
-! 2019/7/21 https://detail.tmall.com
-detail.tmall.com###footer
-detail.tmall.com##.mui-mbarp-qrcode
-detail.tmall.com###official-remind
-detail.tmall.com###tstart
-detail.tmall.com###J_TabRecommends
-detail.tmall.com##.tm-layout
-detail.tmall.com###J_SellerInfo
-detail.tmall.com###J_TmallApkRateTab
-detail.tmall.com##.rate-tryreport
-detail.tmall.com###J_ServiceTab
-detail.tmall.com##.mui-mbar-tab-ue.mui-mbar-tab
-detail.tmall.com##.mui-mbar-tab-qrcode.mui-mbar-tab
-
-! 2019/7/21 https://item.taobao.com
-item.taobao.com###official-remind
-
-! 2019/7/21 https://www.jd.com
-www.jd.com##.mod_copyright
-www.jd.com###J_footer
-www.jd.com###J_promotional-top
-www.jd.com###J_fs_act_lk
-
-! 2019/7/21 https://www.taobao.com
-www.taobao.com###J_SiteFooter
-www.taobao.com##.footer_2014
-www.taobao.com##.J_Helper.helper
-www.taobao.com##.clearfix.tbh-superbanner.J_Module
-
-! 2019/7/21 https://login.taobao.com
-login.taobao.com##.footer
-login.taobao.com##.logo > .link
-login.taobao.com###J_QRCodeLogin > .login-tip
-login.taobao.com##.logo > .error.login-msg
-
-! 2019/7/21 https://passport.jd.com
-passport.jd.com###footer-2013
-passport.jd.com##.q-link
-passport.jd.com###content > .tips-wrapper
-passport.jd.com##.login-form > .tips-wrapper
-
-! 2019/7/21 https://shoucang.taobao.com
-shoucang.taobao.com##.fav-zuanshi
-shoucang.taobao.com##.page-footer-hidden
-shoucang.taobao.com##.page-nav-box-none
-shoucang.taobao.com###J_SiteFooter
-
-! 2019/7/21 https://t.jd.com
-t.jd.com##.backpanel-inner
-t.jd.com###shareRec
-t.jd.com##.mf-promotion
-
-! 2019/7/21 https://order.jd.com
-order.jd.com##div.mod-main:nth-of-type(7)
-
-! 2019/7/23 http://ent.ifeng.com
-ent.ifeng.com##.leftContent-1ESnktbA > div:nth-of-type(3)
-ent.ifeng.com##.box-1F3p1j_9
-
-! 2019/7/21 jd.com
-jd.com###footer-2017
-jd.com###service-2017
-jd.com##.fixed.jTdCode
-jd.com##.jdm-tbar-tab-qrcode.jdm-toolbar-tab.J-trigger
-jd.com##.jdm-tbar-tab-feedback.jdm-toolbar-tab.J-trigger
-
-! 2019/7/21 taobao.com
-taobao.com##.tb-footer
-taobao.com###tstart
-
-! 2019/7/23 http://news.sina.com.cn
-news.sina.com.cn###tab_related
-news.sina.com.cn##.clearfix.blk-wxfollow
-news.sina.com.cn##.side-btns-2w
-news.sina.com.cn##.new-media-lab
-news.sina.com.cn##.nav-link-box
-news.sina.com.cn##.copy-right
-news.sina.com.cn##.view-module
-news.sina.com.cn##.report-infor
-news.sina.com.cn##.article-content-right > .right-tlt
-
-! 2019/8/3 https://tianqi.qq.com
-tianqi.qq.com###ct-footer
-tianqi.qq.com###ct-ad
-tianqi.qq.com###ct-pop-mobile
-
-! 2019/8/3 http://www.nmc.cn
-www.nmc.cn###footer
-www.nmc.cn###hotNews
-www.nmc.cn##.nav
-www.nmc.cn##div.toolbar:nth-of-type(4)
-
 ! 2019/8/4 https://map.baidu.com
 map.baidu.com###message-center
 map.baidu.com##.anchorBL.BMap_noprint.BMap_cpyCtrl > span
@@ -352,6 +217,140 @@ wenku.baidu.com##.super-vip.toolbar-core-btns-wrap > .btn-pay-vip > .new-user-di
 wenku.baidu.com###guess-like-doc
 wenku.baidu.com##.ui-bz-hot-ic
 
+! 2019/7/21 https://cn.bing.com
+cn.bing.com###b_footer
+
+! 2019/7/21 http://fanyi.youdao.com
+fanyi.youdao.com##.inside__products
+fanyi.youdao.com##.side__nav
+fanyi.youdao.com##.fanyi__footer
+fanyi.youdao.com##.fanyi__nav__list > li:nth-of-type(1)
+fanyi.youdao.com##.fanyi__nav__list > li:nth-of-type(2)
+fanyi.youdao.com##.fanyi__nav__list > li:nth-of-type(3)
+fanyi.youdao.com##.fanyi__nav__list > li:nth-of-type(4)
+fanyi.youdao.com##.fanyi__nav__list > li:nth-of-type(5)
+fanyi.youdao.com##.doc__upload--tip
+fanyi.youdao.com###transMan
+fanyi.youdao.com##.resource
+
+! 2019/8/13 http://dict.youdao.comfanyi
+dict.youdao.com###follow
+dict.youdao.com###c_footer
+dict.youdao.com##.win-download.dialog-guide-download
+dict.youdao.com##.dict-votebar
+dict.youdao.com###nav
+dict.youdao.com##.c-sust
+
+! 2019/7/21 https://s.taobao.com
+s.taobao.com###srp-footer
+s.taobao.com##div.grid-total:nth-of-type(5)
+s.taobao.com###J_FeedbackExperience
+s.taobao.com##.help
+s.taobao.com###J_imgsearchTips
+s.taobao.com##.advise-side-suggest.advice
+s.taobao.com##.history
+
+! 2019/7/21 https://search.jd.com
+search.jd.com##.bottom-search
+search.jd.com##div.w:nth-of-type(9)
+search.jd.com##.qrcode-container
+
+! 2019/7/21 https://item.jd.com
+item.jd.com###GLOBAL_FOOTER
+item.jd.com###toolbar-qrcode
+
+! 2019/7/21 https://www.jd.com
+www.jd.com##.mod_copyright
+www.jd.com###J_footer
+www.jd.com###J_promotional-top
+www.jd.com###J_fs_act_lk
+
+! 2019/7/21 https://passport.jd.com
+passport.jd.com###footer-2013
+passport.jd.com##.q-link
+passport.jd.com###content > .tips-wrapper
+passport.jd.com##.login-form > .tips-wrapper
+
+! 2019/7/21 https://t.jd.com
+t.jd.com##.backpanel-inner
+t.jd.com###shareRec
+t.jd.com##.mf-promotion
+
+! 2019/7/21 jd.com
+jd.com###footer-2017
+jd.com###service-2017
+jd.com##.fixed.jTdCode
+jd.com##.jdm-tbar-tab-qrcode.jdm-toolbar-tab.J-trigger
+jd.com##.jdm-tbar-tab-feedback.jdm-toolbar-tab.J-trigger
+
+! 2019/7/21 https://order.jd.com
+order.jd.com##div.mod-main:nth-of-type(7)
+
+! 2019/7/21 https://detail.tmall.com
+detail.tmall.com###footer
+detail.tmall.com##.mui-mbarp-qrcode
+detail.tmall.com###official-remind
+detail.tmall.com###tstart
+detail.tmall.com###J_TabRecommends
+detail.tmall.com##.tm-layout
+detail.tmall.com###J_SellerInfo
+detail.tmall.com###J_TmallApkRateTab
+detail.tmall.com##.rate-tryreport
+detail.tmall.com###J_ServiceTab
+detail.tmall.com##.mui-mbar-tab-ue.mui-mbar-tab
+detail.tmall.com##.mui-mbar-tab-qrcode.mui-mbar-tab
+
+! 2019/7/21 https://item.taobao.com
+item.taobao.com###official-remind
+
+! 2019/7/21 https://www.taobao.com
+www.taobao.com###J_SiteFooter
+www.taobao.com##.footer_2014
+www.taobao.com##.J_Helper.helper
+www.taobao.com##.clearfix.tbh-superbanner.J_Module
+
+! 2019/7/21 https://login.taobao.com
+login.taobao.com##.footer
+login.taobao.com##.logo > .link
+login.taobao.com###J_QRCodeLogin > .login-tip
+login.taobao.com##.logo > .error.login-msg
+
+! 2019/7/21 https://shoucang.taobao.com
+shoucang.taobao.com##.fav-zuanshi
+shoucang.taobao.com##.page-footer-hidden
+shoucang.taobao.com##.page-nav-box-none
+shoucang.taobao.com###J_SiteFooter
+
+! 2019/7/23 http://ent.ifeng.com
+ent.ifeng.com##.leftContent-1ESnktbA > div:nth-of-type(3)
+ent.ifeng.com##.box-1F3p1j_9
+
+! 2019/7/21 taobao.com
+taobao.com##.tb-footer
+taobao.com###tstart
+
+! 2019/7/23 http://news.sina.com.cn
+news.sina.com.cn###tab_related
+news.sina.com.cn##.clearfix.blk-wxfollow
+news.sina.com.cn##.side-btns-2w
+news.sina.com.cn##.new-media-lab
+news.sina.com.cn##.nav-link-box
+news.sina.com.cn##.copy-right
+news.sina.com.cn##.view-module
+news.sina.com.cn##.report-infor
+news.sina.com.cn##.article-content-right > .right-tlt
+
+! 2019/8/3 https://tianqi.qq.com
+tianqi.qq.com###ct-footer
+tianqi.qq.com###ct-ad
+tianqi.qq.com###ct-pop-mobile
+
+! 2019/8/3 http://www.nmc.cn
+www.nmc.cn###footer
+www.nmc.cn###hotNews
+www.nmc.cn##.nav
+www.nmc.cn##div.toolbar:nth-of-type(4)
+
 ! 2019/8/4 https://www.jianshu.com
 www.jianshu.com###note-ad
 www.jianshu.com###note-fixed-ad-container
@@ -425,8 +424,6 @@ bbs.csdn.net###totast-js
 ! 2019/8/26 https://download.csdn.net
 download.csdn.net##.wrapper.carousel_box
 download.csdn.net##.indexSuperise
-
-
 
 ! 2019/8/4 https://juejin.im
 juejin.im##.recommend-box
