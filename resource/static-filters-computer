@@ -20,6 +20,10 @@ yq.aliyun.com##.link-wrap
 yq.aliyun.com##[href^="http://idinfo.zjaic.gov.cn/bscx.do"]
 yq.aliyun.com##[href^="http://www.beian.gov.cn/portal/registerSystemInfo"]
 yq.aliyun.com##.delivery-banner-activity-wrapper
+yq.aliyun.com##.dbl-popup-focus.dbl-popup-show.dbl-popup-modal.dbl-popup
+yq.aliyun.com##.dbl-popup-backdrop
+yq.aliyun.com###yq-a-r-bottom
+
 ! 2019/9/1 https://www.aliyun.com
 www.aliyun.com##.aliyun-delivery-view-container
 
@@ -809,3 +813,6 @@ greasyfork.org##.carbon-ad.ad
 ! 2019/9/13 https://www.mafengwo.cn
 www.mafengwo.cn###footer
 www.mafengwo.cn##.toolbar-item-code
+
+! 2019/9/13 https://auth.alipay.com
+auth.alipay.com###onlineService
