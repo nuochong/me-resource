@@ -1,6 +1,7 @@
 ! 2019/8/30 https://www.google.com
 www.google.com###footer
 www.google.com###footcnt
+www.google.com###prm-pt
 
 ! 2019/8/30 https://www.youtube.com
 www.youtube.com###footer
@@ -414,6 +415,7 @@ blog.csdn.net###asideFooter
 blog.csdn.net##.article-copyright
 blog.csdn.net##.blog-expert-recommend-box.recommend-item-box
 blog.csdn.net##.article_info_click
+blog.csdn.net##.userLogin > .msg-toast--show.msgToastText-free.msg-toast
 
 ! 2019/8/25 https://www.csdn.net
 www.csdn.net##.right_top.slide-outer
