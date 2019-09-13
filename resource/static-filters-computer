@@ -178,6 +178,8 @@ jingyan.baidu.com##.audio-wp-1.audio-wp
 jingyan.baidu.com###w-share
 jingyan.baidu.com##li.related-exp-link > .has-img
 jingyan.baidu.com###exp-msgbox-wrapper
+jingyan.baidu.com##div.widget-container:nth-of-type(3)
+jingyan.baidu.com###auto-app-placehold
 
 ! 2019/8/4 https://zhidao.baidu.com
 zhidao.baidu.com##.wgt-footer-new
@@ -403,6 +405,13 @@ www.jb51.net##.mb10.header > .wrap
 www.jb51.net##.topTools
 www.jb51.net##.header > .wrap
 www.jb51.net##.f12.footer
+www.jb51.net##.rshare-weixin
+www.jb51.net##.rshare-qzone
+www.jb51.net##.rshare-sqq
+www.jb51.net##.rshare-tsina
+www.jb51.net##p > [href="#comments"]
+www.jb51.net##.clearfix.mb10.tags
+www.jb51.net###comments
 
 ! 2019/8/4 https://www.v2ex.com
 www.v2ex.com##div.box:nth-of-type(6)
@@ -502,6 +511,12 @@ news.ceic.ac.cn###map3 > div:nth-of-type(2) > div > div
 news.ceic.ac.cn##div.gmnoprint:nth-of-type(4)
 news.ceic.ac.cn##.gm-style-cc.gmnoprint
 news.ceic.ac.cn###map1 > div:nth-of-type(2)
+www.ceic.ac.cn###map1 > div:nth-of-type(2)
+www.ceic.ac.cn###map2 > div:nth-of-type(2)
+www.ceic.ac.cn###map1 > div:nth-of-type(1) > .gm-china.gm-style > div.gmnoprint:nth-of-type(4)
+www.ceic.ac.cn###map2 > div:nth-of-type(1) > .gm-china.gm-style > div.gmnoprint:nth-of-type(4)
+www.ceic.ac.cn###map1 > div:nth-of-type(1) > .gm-china.gm-style > .gm-style-cc.gmnoprint
+www.ceic.ac.cn###map2 > div:nth-of-type(1) > .gm-china.gm-style > .gm-style-cc.gmnoprint
 
 ! 2019/8/10 youku.com
 youku.com##.g-footer
