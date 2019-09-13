@@ -122,6 +122,7 @@ www.baidu.com##.show.ecl-vmp-cat
 www.baidu.com##.f13 > .c-icons-outer
 www.baidu.com##.op-tieba-general-mainpl.c-showurl
 www.baidu.com##.hint_common_restop
+www.baidu.com##a.c-gray:nth-of-type(1)
 
 ! 2019/8/9 http://tieba.baidu.com
 tieba.baidu.com##.nopic.bds_more
