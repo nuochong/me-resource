@@ -26,12 +26,14 @@ www.aliyun.com##.aliyun-delivery-view-container
 ! 2019/9/1 https://account.aliyun.com
 account.aliyun.com##.ali-copyright-100
 account.aliyun.com##.float-tool
+account.aliyun.com##div:nth-of-type(3) > .ace-floor
 
 ! 2019/9/1 https://www.aliyun.com
 www.aliyun.com##.ali-about-container
 
 ! 2019/9/1 https://dc.console.aliyun.com
 dc.console.aliyun.com##.new-product-small
+dc.console.aliyun.com##.aliyun-advice
 
 ! 2019/4/11 https://www.kancloud.cn
 www.kancloud.cn##.title
@@ -78,6 +80,7 @@ www.bilibili.com###entryOld
 www.bilibili.com##.report-wrap-module.bili-footer.footer
 www.bilibili.com##.bilibili-player-show.bilibili-player-video-top-follow
 www.bilibili.com##.player-tooltips-trigger.bilibili-player-iconfont.bilibili-player-video-top-issue
+www.bilibili.com##.mobile.nav-item
 
 ! 2019/8/29 https://www.bilibili.com
 www.bilibili.com##.b-footer-wrap.partner
@@ -118,6 +121,7 @@ www.baidu.com##.ecl-vmp-cat-list
 www.baidu.com##.show.ecl-vmp-cat
 www.baidu.com##.f13 > .c-icons-outer
 www.baidu.com##.op-tieba-general-mainpl.c-showurl
+www.baidu.com##.hint_common_restop
 
 ! 2019/8/9 http://tieba.baidu.com
 tieba.baidu.com##.nopic.bds_more
@@ -149,6 +153,7 @@ map.baidu.com###message-center
 map.baidu.com##.anchorBL.BMap_noprint.BMap_cpyCtrl > span
 map.baidu.com##.poi-ads
 map.baidu.com##.leadDownloadCard
+map.baidu.com##.tooltip
 
 ! 2019/8/4 https://jingyan.baidu.com
 jingyan.baidu.com###fresh-share-exp-e
@@ -218,6 +223,14 @@ wenku.baidu.com###wkgg
 wenku.baidu.com##.super-vip.toolbar-core-btns-wrap > .btn-pay-vip > .new-user-discount-tip
 wenku.baidu.com###guess-like-doc
 wenku.baidu.com##.ui-bz-hot-ic
+
+! 2019/9/2 https://pan.baidu.com
+pan.baidu.com###ft
+
+! 2019/9/13 https://passport.baidu.com
+passport.baidu.com###foot
+passport.baidu.com##.app-download-link
+passport.baidu.com###mod_feedback
 
 ! 2019/7/21 https://cn.bing.com
 cn.bing.com###b_footer
@@ -405,6 +418,7 @@ csdn.net##.app-gitchat.app-control
 csdn.net##li:nth-of-type(14)
 csdn.net##.vip-caise
 csdn.net###nav-left-menu > li:nth-of-type(9)
+csdn.net##.userLogin > .msg-toast--show.msgToastText-free.msg-toast
 
 blog.csdn.net##.follow-nickName
 blog.csdn.net##.box-shadow.mb8.csdn-tracking-statistics
@@ -765,11 +779,30 @@ www.xiaobaipan.com##.content-box.col-lg-12
 www.xiaobaipan.com###footer
 www.xiaobaipan.com##div.job-item.item-list:nth-of-type(2)
 
-! 2019/9/2 https://pan.baidu.com
-pan.baidu.com###ft
-
 ! 2019/9/3 https://mp.weixin.qq.com
 mp.weixin.qq.com###footer
 
 ! 2019/9/7 https://www.tiobe.com
 www.tiobe.com##.cc_banner-wrapper
+
+! 2019/9/13 https://emojipedia.org
+emojipedia.org##.page-footer
+
+! 2019/9/13 http://getemoji.com
+getemoji.com##div.text-center:nth-of-type(6)
+getemoji.com##p:nth-of-type(25)
+getemoji.com##p:nth-of-type(27)
+getemoji.com##p:nth-of-type(26)
+getemoji.com##p:nth-of-type(22)
+getemoji.com##form.navbar-form:nth-of-type(10)
+getemoji.com##p:nth-of-type(23)
+getemoji.com##p:nth-of-type(21)
+getemoji.com##form.navbar-form:nth-of-type(9)
+getemoji.com##h2:nth-of-type(9)
+
+! 2019/9/13 https://greasyfork.org
+greasyfork.org##.carbon-ad.ad
+
+! 2019/9/13 https://www.mafengwo.cn
+www.mafengwo.cn###footer
+www.mafengwo.cn##.toolbar-item-code
