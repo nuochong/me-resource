@@ -318,6 +318,8 @@ detail.tmall.com##.mui-mbar-tab-qrcode.mui-mbar-tab
 
 ! 2019/7/21 https://item.taobao.com
 item.taobao.com###official-remind
+item.taobao.com##.tb-toolbar-list-with-gotop.tb-toolbar-list-with-feedback.tb-toolbar-list > li.tb-toolbar-item:nth-of-type(1)
+item.taobao.com##.tb-tbcr-mt.type-attention.kg-rate-alert
 
 ! 2019/7/21 https://www.taobao.com
 www.taobao.com###J_SiteFooter
