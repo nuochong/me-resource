@@ -268,6 +268,7 @@ dict.youdao.com##.dict-votebar
 dict.youdao.com###nav
 dict.youdao.com##.c-sust
 dict.youdao.com##li.nav-collins:nth-of-type(6)
+dict.youdao.com##.picUgcMenu
 
 ! 2019/7/21 https://s.taobao.com
 s.taobao.com###srp-footer
