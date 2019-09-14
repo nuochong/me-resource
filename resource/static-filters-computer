@@ -267,6 +267,7 @@ dict.youdao.com##.win-download.dialog-guide-download
 dict.youdao.com##.dict-votebar
 dict.youdao.com###nav
 dict.youdao.com##.c-sust
+dict.youdao.com##li.nav-collins:nth-of-type(6)
 
 ! 2019/7/21 https://s.taobao.com
 s.taobao.com###srp-footer
