@@ -233,6 +233,11 @@ wenku.baidu.com##.ui-bz-hot-ic
 
 ! 2019/9/2 https://pan.baidu.com
 pan.baidu.com###ft
+pan.baidu.com###show-buyvip-pack
+pan.baidu.com##span.cMEMEF:nth-of-type(4) > .find-light-icon
+pan.baidu.com##a.g-button:nth-of-type(4)
+pan.baidu.com##.app-download
+pan.baidu.com##.init-footer
 
 ! 2019/9/13 https://passport.baidu.com
 passport.baidu.com###foot
@@ -672,6 +677,7 @@ market.nativescript.org##.mp-plugin-detail-link
 
 ! 2019/8/25 https://www.douban.com
 www.douban.com###footer
+www.douban.com###landing-bar
 
 ! 2019/8/25 https://movie.douban.com
 movie.douban.com###footer
@@ -831,3 +837,10 @@ www.mafengwo.cn##.toolbar-item-code
 
 ! 2019/9/13 https://auth.alipay.com
 auth.alipay.com###onlineService
+
+! 2019/9/14 https://www.sohu.com
+www.sohu.com###articleAllsee
+www.sohu.com##.groom-read
+www.sohu.com###pages-fun
+www.sohu.com###share
+www.sohu.com##.user-feedback
