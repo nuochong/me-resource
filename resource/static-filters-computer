@@ -443,6 +443,7 @@ csdn.net##li:nth-of-type(14)
 csdn.net##.vip-caise
 csdn.net###nav-left-menu > li:nth-of-type(9)
 csdn.net##.userLogin > .msg-toast--show.msgToastText-free.msg-toast
+csdn.net##.userinfo > .msg-toast--show.msgToastText-free.msg-toast
 
 blog.csdn.net##.follow-nickName
 blog.csdn.net##.box-shadow.mb8.csdn-tracking-statistics
@@ -847,3 +848,9 @@ www.sohu.com##.groom-read
 www.sohu.com###pages-fun
 www.sohu.com###share
 www.sohu.com##.user-feedback
+
+! 2019/9/15 http://www.ddooo.com
+www.ddooo.com##.share
+www.ddooo.com###footer
+www.ddooo.com##.topbar
+www.ddooo.com###pltab
