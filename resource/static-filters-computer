@@ -56,7 +56,9 @@ cnbeta.com###rank_box
 cnbeta.com##.cnbeta-headlines-title
 cnbeta.com##div[style="display:block !important;position:fixed;bottom:0;margin-top:10px;width:100%;background:#c44;color:#fff;font-size:15px;z-index:99999"]
 cnbeta.com##.article-relation
+cnbeta.com##.cnbeta-fullBanner
 www.cnbeta.com##.item > .meta-data > .status > .b
+www.cnbeta.com##.cnbeta-main-navi > ul > li:nth-child(n+2)
 
 ! 2019/6/1 http://tool.manmanbuy.com
 tool.manmanbuy.com##.right_alert_show.right_alert
@@ -804,6 +806,9 @@ tool.oschina.net###footer
 my.oschina.net###copyright
 my.oschina.net##.bdshare-button-style0-16.left-menu.reset.bdsharebuttonbox
 
+! 2019/9/27 https://www.oschina.net
+www.oschina.net##.home-footer
+
 ! 2019/9/2 https://www.xiaobaipan.com
 www.xiaobaipan.com##.text-center.post-promo
 www.xiaobaipan.com###footer
@@ -854,3 +859,9 @@ www.ddooo.com##.share
 www.ddooo.com###footer
 www.ddooo.com##.topbar
 www.ddooo.com###pltab
+
+! 2019/9/27 http://e.xitu.io
+e.xitu.io##.banner.item
+
+! 2019/9/27 http://typhoon.zjwater.gov.cn
+typhoon.zjwater.gov.cn##.leaflet-right.leaflet-bottom
