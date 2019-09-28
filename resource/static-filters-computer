@@ -2,6 +2,7 @@
 www.google.com###footer
 www.google.com###footcnt
 www.google.com###prm-pt
+www.google.com###fineprint
 
 ! 2019/8/30 https://www.youtube.com
 www.youtube.com###footer
@@ -191,6 +192,8 @@ zhidao.baidu.com###footer
 zhidao.baidu.com##.aside-inner
 zhidao.baidu.com###bottom-ask-btnidu
 zhidao.baidu.com##.fixheight.aside
+zhidao.baidu.com##.activity-entry.menu-right-list-item
+zhidao.baidu.com##.shop-entrance
 
 ! 2019/8/4 https://baike.baidu.com
 baike.baidu.com##.topA
@@ -624,6 +627,7 @@ stackoverflow.com###wmd-preview
 stackoverflow.com##.bottom-notice
 stackoverflow.com##li:nth-of-type(3) > .nav-links
 stackoverflow.com###newsletter-ad
+stackoverflow.com###announcement-banner
 
 ! 2019/8/22 https://www.extfans.com
 www.extfans.com##.footer
@@ -714,6 +718,9 @@ www.zhihu.com##.ExploreHomePage-footer.PageBottomFooter
 www.zhihu.com##.SignFlowHomepage-footer
 www.zhihu.com##div.Card:nth-of-type(5)
 www.zhihu.com##.Footer
+
+! 2019/9/15 https://zhuanlan.zhihu.com
+zhuanlan.zhihu.com##.Post-SideActions > .ShareMenu.Popover
 
 ! 2019/8/27 https://ask.dcloud.net.cn
 ask.dcloud.net.cn##.aw-footer
