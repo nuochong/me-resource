@@ -100,6 +100,7 @@ passport.bilibili.com##.footer-wrp
 
 ! 2019/7/24 https://search.bilibili.com
 search.bilibili.com##.footer-wrp
+search.bilibili.com##.international-footer
 
 ! 2019/7/3 https://www.zhangxinxu.com
 www.zhangxinxu.com##.topa
@@ -321,6 +322,9 @@ jd.com##.jdm-tbar-tab-feedback.jdm-toolbar-tab.J-trigger
 ! 2019/7/21 https://order.jd.com
 order.jd.com##div.mod-main:nth-of-type(7)
 
+! 2019/9/28 https://joycenter.jd.com
+joycenter.jd.com###shareRecDemo
+
 ! 2019/7/21 https://detail.tmall.com
 detail.tmall.com###footer
 detail.tmall.com##.mui-mbarp-qrcode
@@ -357,6 +361,8 @@ shoucang.taobao.com##.fav-zuanshi
 shoucang.taobao.com##.page-footer-hidden
 shoucang.taobao.com##.page-nav-box-none
 shoucang.taobao.com###J_SiteFooter
+shoucang.taobao.com##a.btn:nth-of-type(2)
+shoucang.taobao.com##.J_FavHelpBtn.btn
 
 ! 2019/7/23 http://ent.ifeng.com
 ent.ifeng.com##.leftContent-1ESnktbA > div:nth-of-type(3)
