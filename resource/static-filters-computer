@@ -318,6 +318,8 @@ jd.com###service-2017
 jd.com##.fixed.jTdCode
 jd.com##.jdm-tbar-tab-qrcode.jdm-toolbar-tab.J-trigger
 jd.com##.jdm-tbar-tab-feedback.jdm-toolbar-tab.J-trigger
+jd.com###ttbar-member
+jd.com##li.spacer:nth-of-type(8)
 
 ! 2019/7/21 https://order.jd.com
 order.jd.com##div.mod-main:nth-of-type(7)
@@ -338,11 +340,14 @@ detail.tmall.com##.rate-tryreport
 detail.tmall.com###J_ServiceTab
 detail.tmall.com##.mui-mbar-tab-ue.mui-mbar-tab
 detail.tmall.com##.mui-mbar-tab-qrcode.mui-mbar-tab
+detail.tmall.com###J_DcFt
+detail.tmall.com##.sn-mobile
 
 ! 2019/7/21 https://item.taobao.com
 item.taobao.com###official-remind
 item.taobao.com##.tb-toolbar-list-with-gotop.tb-toolbar-list-with-feedback.tb-toolbar-list > li.tb-toolbar-item:nth-of-type(1)
 item.taobao.com##.tb-tbcr-mt.type-attention.kg-rate-alert
+item.taobao.com###copyright
 
 ! 2019/7/21 https://www.taobao.com
 www.taobao.com###J_SiteFooter
@@ -371,6 +376,11 @@ ent.ifeng.com##.box-1F3p1j_9
 ! 2019/7/21 taobao.com
 taobao.com##.tb-footer
 taobao.com###tstart
+taobao.com###J_SiteNavMobile
+
+
+! 2019/8/8 https://buyertrade.taobao.com
+buyertrade.taobao.com##.gul-w-order.J_guess-you-like
 
 ! 2019/7/23 http://news.sina.com.cn
 news.sina.com.cn###tab_related
@@ -500,9 +510,6 @@ gitee.com##.wallet-banner
 gitee.com##.pendan-widget.gitee-stars-main-widget
 gitee.com##.visible.transition.menu
 gitee.com##.label.red.ui
-
-! 2019/8/8 https://buyertrade.taobao.com
-buyertrade.taobao.com##.gul-w-order.J_guess-you-like
 
 ! 2019/8/9 http://bbs.gfan.com
 bbs.gfan.com###ft
