@@ -82,12 +82,15 @@ tuku.jia.com##.shake
 tuku.jia.com##.zx_xrhb
 
 ! 2019/7/1 https://www.bilibili.com
+bilibili.com##.mobile.nav-item
 www.bilibili.com###fixed_app_download
 www.bilibili.com###entryOld
 www.bilibili.com##.report-wrap-module.bili-footer.footer
 www.bilibili.com##.bilibili-player-show.bilibili-player-video-top-follow
 www.bilibili.com##.player-tooltips-trigger.bilibili-player-iconfont.bilibili-player-video-top-issue
-www.bilibili.com##.mobile.nav-item
+
+! 2019/10/13 https://live.bilibili.com
+live.bilibili.com###link-footer-vm
 
 ! 2019/8/29 https://www.bilibili.com
 www.bilibili.com##.b-footer-wrap.partner
@@ -440,6 +443,10 @@ www.jb51.net##.rshare-tsina
 www.jb51.net##p > [href="#comments"]
 www.jb51.net##.clearfix.mb10.tags
 www.jb51.net###comments
+www.jb51.net###topbar
+www.jb51.net###header
+www.jb51.net###submenu
+www.jb51.net##div.bor-blue.sidebox:nth-of-type(6)
 
 ! 2019/8/4 https://www.v2ex.com
 www.v2ex.com##div.box:nth-of-type(6)
