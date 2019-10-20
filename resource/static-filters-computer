@@ -206,6 +206,7 @@ baike.baidu.com##.lemmaWgt-promotion-vbaike
 baike.baidu.com##.lemmaWgt-promotion-slide
 baike.baidu.com###side-share
 baike.baidu.com##.copyright
+baike.baidu.com###J-declare-wrap
 
 ! 2019/8/4 https://baijiahao.baidu.com
 baijiahao.baidu.com##.copy-right
@@ -726,6 +727,7 @@ weibo.com###pl_common_footer
 weibo.com##.S_bg2.WB_footer
 weibo.com##div.clearfix.PCD_mplayer:nth-of-type(2)
 weibo.com##.key
+weibo.com###v6_trustPagelet_recom_member
 
 ! 2019/8/25 https://krcom.cn
 krcom.cn##.V_footer
