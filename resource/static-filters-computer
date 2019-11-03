@@ -283,15 +283,6 @@ dict.youdao.com##li.nav-collins:nth-of-type(6)
 dict.youdao.com##.picUgcMenu
 dict.youdao.com###hnwBtn
 
-! 2019/7/21 https://s.taobao.com
-s.taobao.com###srp-footer
-s.taobao.com##div.grid-total:nth-of-type(5)
-s.taobao.com###J_FeedbackExperience
-s.taobao.com##.help
-s.taobao.com###J_imgsearchTips
-s.taobao.com##.advise-side-suggest.advice
-s.taobao.com##.history
-
 ! 2019/7/21 https://search.jd.com
 search.jd.com##.bottom-search
 search.jd.com##div.w:nth-of-type(9)
@@ -375,18 +366,31 @@ shoucang.taobao.com###J_SiteFooter
 shoucang.taobao.com##a.btn:nth-of-type(2)
 shoucang.taobao.com##.J_FavHelpBtn.btn
 
-! 2019/7/23 http://ent.ifeng.com
-ent.ifeng.com##.leftContent-1ESnktbA > div:nth-of-type(3)
-ent.ifeng.com##.box-1F3p1j_9
-
 ! 2019/7/21 taobao.com
 taobao.com##.tb-footer
 taobao.com###tstart
 taobao.com###J_SiteNavMobile
-
+taobao.com##.J_MakePoint.J_Suggestion.suggestion
 
 ! 2019/8/8 https://buyertrade.taobao.com
 buyertrade.taobao.com##.gul-w-order.J_guess-you-like
+
+! 2019/7/21 https://s.taobao.com
+s.taobao.com###srp-footer
+s.taobao.com##div.grid-total:nth-of-type(5)
+s.taobao.com###J_FeedbackExperience
+s.taobao.com##.help
+s.taobao.com###J_imgsearchTips
+s.taobao.com##.advise-side-suggest.advice
+s.taobao.com##.history
+
+! 2019/11/3 https://cart.taobao.com
+cart.taobao.com###J_SiteFooter
+cart.taobao.com###interested
+
+! 2019/7/23 http://ent.ifeng.com
+ent.ifeng.com##.leftContent-1ESnktbA > div:nth-of-type(3)
+ent.ifeng.com##.box-1F3p1j_9
 
 ! 2019/7/23 http://news.sina.com.cn
 news.sina.com.cn###tab_related
