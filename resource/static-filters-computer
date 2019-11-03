@@ -198,6 +198,8 @@ zhidao.baidu.com###bottom-ask-btnidu
 zhidao.baidu.com##.fixheight.aside
 zhidao.baidu.com##.activity-entry.menu-right-list-item
 zhidao.baidu.com##.shop-entrance
+zhidao.baidu.com##.task-list-button
+zhidao.baidu.com##.exp-topwld-tip
 
 ! 2019/8/4 https://baike.baidu.com
 baike.baidu.com##.topA
@@ -449,6 +451,11 @@ www.jb51.net###topbar
 www.jb51.net###header
 www.jb51.net###submenu
 www.jb51.net##div.bor-blue.sidebox:nth-of-type(6)
+www.jb51.net##.topimg
+www.jb51.net##.clearfix.pt10 > .clearfix
+www.jb51.net##.idc3
+www.jb51.net##.jb51ewm
+www.jb51.net##.art_xg
 
 ! 2019/8/4 https://www.v2ex.com
 www.v2ex.com##div.box:nth-of-type(6)
@@ -485,6 +492,7 @@ blog.csdn.net##.userLogin > .msg-toast--show.msgToastText-free.msg-toast
 blog.csdn.net##.to-reward.to-commentBox
 blog.csdn.net##.postTime
 blog.csdn.net##.template-box
+blog.csdn.net##.btn-comments.hover-box.low-height.btn-maimai
 
 ! 2019/8/25 https://www.csdn.net
 www.csdn.net##.right_top.slide-outer
