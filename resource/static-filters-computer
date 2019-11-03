@@ -309,6 +309,11 @@ t.jd.com##.backpanel-inner
 t.jd.com###shareRec
 t.jd.com##.mf-promotion
 
+! 2019/11/3 https://cart.jd.com
+cart.jd.com##.cart-smart-main
+cart.jd.com###c-tabs-new
+cart.jd.com##.ac > span
+
 ! 2019/7/21 jd.com
 jd.com###footer-2017
 jd.com###service-2017
