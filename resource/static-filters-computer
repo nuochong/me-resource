@@ -135,6 +135,10 @@ www.baidu.com##.op-tieba-general-mainpl.c-showurl
 www.baidu.com##.hint_common_restop
 www.baidu.com##a.c-gray:nth-of-type(1)
 
+! 2019/11/21 https://zhaopin.baidu.com
+zhaopin.baidu.com##.hotad-list-box
+zhaopin.baidu.com##.ad-list
+
 ! 2019/8/9 http://tieba.baidu.com
 tieba.baidu.com##.nopic.bds_more
 tieba.baidu.com###bdshare > .bds_qzone
@@ -200,6 +204,8 @@ zhidao.baidu.com##.activity-entry.menu-right-list-item
 zhidao.baidu.com##.shop-entrance
 zhidao.baidu.com##.task-list-button
 zhidao.baidu.com##.exp-topwld-tip
+zhidao.baidu.com##.jump-goto-star
+zhidao.baidu.com###answer-bar::after
 
 ! 2019/8/4 https://baike.baidu.com
 baike.baidu.com##.topA
@@ -242,6 +248,7 @@ wenku.baidu.com###wkgg
 wenku.baidu.com##.super-vip.toolbar-core-btns-wrap > .btn-pay-vip > .new-user-discount-tip
 wenku.baidu.com###guess-like-doc
 wenku.baidu.com##.ui-bz-hot-ic
+wenku.baidu.com##.super-vip.doc-banner-btns > .btn-pay-vip > .new-user-discount-tip
 
 ! 2019/9/2 https://pan.baidu.com
 pan.baidu.com###ft
@@ -465,6 +472,11 @@ www.jb51.net##.clearfix.pt10 > .clearfix
 www.jb51.net##.idc3
 www.jb51.net##.jb51ewm
 www.jb51.net##.art_xg
+www.jb51.net##div.mt10.clearfix.r300:nth-of-type(5)
+www.jb51.net##.rFixedBox.mt10
+www.jb51.net##div.clearfix.r300:nth-of-type(3)
+www.jb51.net##.sidebox-recomm
+www.jb51.net##div.mt10.clearfix.r300:nth-of-type(4)
 
 ! 2019/8/4 https://www.v2ex.com
 www.v2ex.com##div.box:nth-of-type(6)
@@ -522,6 +534,7 @@ juejin.im##.panel-btn.share-btn.wechat-btn
 juejin.im##.panel-btn.share-btn.qq-btn
 juejin.im##.panel-btn.share-btn.weibo-btn
 juejin.im##.share-title
+juejin.im##.activity-recommend
 
 ! 2019/8/5 https://www.npmjs.com
 www.npmjs.com##.mt4.b--black-10.bt.cd2827bb
@@ -536,6 +549,8 @@ gitee.com##.wallet-banner
 gitee.com##.pendan-widget.gitee-stars-main-widget
 gitee.com##.visible.transition.menu
 gitee.com##.label.red.ui
+gitee.com##.gitee-stars-widget.gitee-stars-main-widget
+gitee.com##body > .fixed-notice-infos
 
 ! 2019/8/9 http://bbs.gfan.com
 bbs.gfan.com###ft
@@ -634,6 +649,7 @@ www.runoob.com##button.feedback-btn-gray.feedback-btn:nth-of-type(1)
 www.runoob.com##button.feedback-btn-gray.feedback-btn:nth-of-type(2)
 www.runoob.com###sidebar-right-ads
 www.runoob.com##.qrcode
+www.runoob.com##div.re-box-large.re-box.sidebar-box:nth-of-type(2)
 
 ! 2019/8/18 https://www.w3cplus.com
 www.w3cplus.com###block-block-49
@@ -660,6 +676,10 @@ www.imooc.com##.cat-box
 www.imooc.com###septemberSchool
 www.imooc.com##.js-active-fixed.active-box
 www.imooc.com###J_GotoTop
+www.imooc.com##.redrain-bg-shade
+
+! 2019/11/6 https://m.imooc.com
+m.imooc.com##.redrain-bg-shade
 
 ! 2019/8/22 https://stackoverflow.com
 stackoverflow.com###js-gdpr-consent-banner
@@ -857,6 +877,7 @@ tool.oschina.net###footer
 ! 2019/9/1 https://my.oschina.net
 my.oschina.net###copyright
 my.oschina.net##.bdshare-button-style0-16.left-menu.reset.bdsharebuttonbox
+my.oschina.net###floatMenu
 
 ! 2019/9/27 https://www.oschina.net
 www.oschina.net##.home-footer
@@ -917,3 +938,6 @@ e.xitu.io##.banner.item
 
 ! 2019/9/27 http://typhoon.zjwater.gov.cn
 typhoon.zjwater.gov.cn##.leaflet-right.leaflet-bottom
+
+! 2019/11/9 https://xm.58.com
+xm.58.com###commonFooter
