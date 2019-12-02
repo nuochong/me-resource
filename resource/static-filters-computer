@@ -436,6 +436,7 @@ www.jianshu.com##footer.container
 www.jianshu.com##.nqzzJ71pC-jOnJKAfdtr6_0
 www.jianshu.com###web-nav-app-download-btn
 www.jianshu.com##._3Pnjry
+www.jianshu.com##.-umr26
 
 ! 2019/8/4 https://segmentfault.com
 segmentfault.com##.job-recommend
@@ -449,6 +450,8 @@ segmentfault.com##.item.fa-twitter.fa
 segmentfault.com##.item.fa-facebook.fa
 segmentfault.com##.item.fa-arrow-up.fa
 segmentfault.com##.copyright > .mt30
+segmentfault.com##div.mt-4.border-0.card:nth-of-type(2)
+segmentfault.com##div.mt-4.border-0.card:nth-of-type(3)
 
 ! 2019/8/4 https://www.jb51.net
 www.jb51.net###footer
