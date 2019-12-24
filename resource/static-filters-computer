@@ -520,6 +520,7 @@ blog.csdn.net##.btn-comments.hover-box.low-height.btn-maimai
 blog.csdn.net##.more-toolbox
 blog.csdn.net##.person-messagebox
 blog.csdn.net###blog_detail_zk_collection
+blog.csdn.net##.blog-column-pay
 
 ! 2019/8/25 https://www.csdn.net
 www.csdn.net##.right_top.slide-outer
@@ -648,6 +649,7 @@ www.w3school.com.cn###footer
 www.w3school.com.cn###link_about
 www.w3school.com.cn##h2#link_help:nth-of-type(3)
 www.w3school.com.cn##h2#link_help:nth-of-type(4)
+www.w3school.com.cn###foogz
 
 ! 2019/8/18 https://www.runoob.com
 www.runoob.com##.copyright.w-1000
@@ -656,6 +658,7 @@ www.runoob.com##button.feedback-btn-gray.feedback-btn:nth-of-type(2)
 www.runoob.com###sidebar-right-ads
 www.runoob.com##.qrcode
 www.runoob.com##div.re-box-large.re-box.sidebar-box:nth-of-type(2)
+www.runoob.com##footer
 
 ! 2019/8/18 https://www.w3cplus.com
 www.w3cplus.com###block-block-49
