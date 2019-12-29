@@ -452,6 +452,8 @@ segmentfault.com##.item.fa-arrow-up.fa
 segmentfault.com##.copyright > .mt30
 segmentfault.com##div.mt-4.border-0.card:nth-of-type(2)
 segmentfault.com##div.mt-4.border-0.card:nth-of-type(3)
+segmentfault.com##.float-ads.align-items-center.justify-content-center.d-xl-flex.d-none.overflow-hidden.border-0.card
+segmentfault.com##div.mt-4.d-xl-flex.d-none.border-0.card:nth-of-type(4)
 
 ! 2019/8/4 https://www.jb51.net
 www.jb51.net###footer
@@ -950,3 +952,8 @@ typhoon.zjwater.gov.cn##.leaflet-right.leaflet-bottom
 
 ! 2019/11/9 https://xm.58.com
 xm.58.com###commonFooter
+
+! 2019/12/26 http://www.htmleaf.com
+www.htmleaf.com##.wrapper > .container
+www.htmleaf.com##.inner > div:nth-of-type(3)
+www.htmleaf.com##.htmleaf-adv
