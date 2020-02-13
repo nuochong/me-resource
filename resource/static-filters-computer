@@ -88,15 +88,17 @@ www.bilibili.com###entryOld
 www.bilibili.com##.report-wrap-module.bili-footer.footer
 www.bilibili.com##.bilibili-player-show.bilibili-player-video-top-follow
 www.bilibili.com##.player-tooltips-trigger.bilibili-player-iconfont.bilibili-player-video-top-issue
-
-! 2019/10/13 https://live.bilibili.com
-live.bilibili.com###link-footer-vm
-
-! 2019/8/29 https://www.bilibili.com
 www.bilibili.com##.b-footer-wrap.partner
 www.bilibili.com##.b-footer-wrap.link-box
 www.bilibili.com##.international-footer
 www.bilibili.com##.inside-wrp
+www.bilibili.com##.contact-help
+www.bilibili.com##li.nav-link-item:nth-of-type(9)
+www.bilibili.com##li.nav-link-item:nth-of-type(8)
+www.bilibili.com##.reply-notice
+
+! 2019/10/13 https://live.bilibili.com
+live.bilibili.com###link-footer-vm
 
 ! 2019/8/23 https://passport.bilibili.com
 passport.bilibili.com##.footer-wrp
@@ -104,6 +106,9 @@ passport.bilibili.com##.footer-wrp
 ! 2019/7/24 https://search.bilibili.com
 search.bilibili.com##.footer-wrp
 search.bilibili.com##.international-footer
+
+! 2020/2/12 https://space.bilibili.com
+space.bilibili.com##li.nav-link-item:nth-of-type(8)
 
 ! 2019/7/3 https://www.zhangxinxu.com
 www.zhangxinxu.com##.topa
@@ -231,6 +236,7 @@ fanyi.baidu.com##.extra-wrap
 fanyi.baidu.com##.icon-manual.manual-trans-btn
 fanyi.baidu.com##.hide.trans-ad-app-wrap
 fanyi.baidu.com##.new-edition-tip.data-hover-tip.collection-btn:after
+fanyi.baidu.com##.app-guide
 
 ! 2019/8/25 https://xin.baidu.com
 xin.baidu.com##.clue-wrap
@@ -249,6 +255,9 @@ wenku.baidu.com##.super-vip.toolbar-core-btns-wrap > .btn-pay-vip > .new-user-di
 wenku.baidu.com###guess-like-doc
 wenku.baidu.com##.ui-bz-hot-ic
 wenku.baidu.com##.super-vip.doc-banner-btns > .btn-pay-vip > .new-user-discount-tip
+wenku.baidu.com##.zsj-toppos
+wenku.baidu.com##.mini.zsj-topbar
+wenku.baidu.com###my-wkHome-vip-tips
 
 ! 2019/9/2 https://pan.baidu.com
 pan.baidu.com###ft
@@ -957,3 +966,6 @@ xm.58.com###commonFooter
 www.htmleaf.com##.wrapper > .container
 www.htmleaf.com##.inner > div:nth-of-type(3)
 www.htmleaf.com##.htmleaf-adv
+
+! 2020/2/6 https://www.php.cn
+www.php.cn##[href="https://www.xp.cn/linux.html"]
