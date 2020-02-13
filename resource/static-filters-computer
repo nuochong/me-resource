@@ -140,6 +140,9 @@ www.baidu.com##.op-tieba-general-mainpl.c-showurl
 www.baidu.com##.hint_common_restop
 www.baidu.com##a.c-gray:nth-of-type(1)
 
+! 2020/1/19 https://passport.baidu.com
+passport.baidu.com###TANGRAM__PSP_3__qrcode > .pass-form-logo
+
 ! 2019/11/21 https://zhaopin.baidu.com
 zhaopin.baidu.com##.hotad-list-box
 zhaopin.baidu.com##.ad-list
@@ -258,6 +261,18 @@ wenku.baidu.com##.super-vip.doc-banner-btns > .btn-pay-vip > .new-user-discount-
 wenku.baidu.com##.zsj-toppos
 wenku.baidu.com##.mini.zsj-topbar
 wenku.baidu.com###my-wkHome-vip-tips
+wenku.baidu.com##.mini.zsj-topbar
+wenku.baidu.com##.zsj-toppos
+wenku.baidu.com###my-wkHome-vip-tips
+wenku.baidu.com###my-wkHome-vip-tips-search-bar-no-login
+wenku.baidu.com##.super-vip.top-ads-banner-wrap
+wenku.baidu.com##.help-feedback.log-xsend.reader-feedback
+wenku.baidu.com##.super-vip.doc-banner-tip
+wenku.baidu.com###doc_bottom_wrap
+wenku.baidu.com##.super-vip.banner-core-wrap
+wenku.baidu.com##.tang-pass-qrcode-ullist
+wenku.baidu.com###TANGRAM__PSP_19__qrcode > .pass-form-logo
+wenku.baidu.com##.inner > li:nth-of-type(5)
 
 ! 2019/9/2 https://pan.baidu.com
 pan.baidu.com###ft
@@ -372,6 +387,7 @@ www.taobao.com###J_SiteFooter
 www.taobao.com##.footer_2014
 www.taobao.com##.J_Helper.helper
 www.taobao.com##.clearfix.tbh-superbanner.J_Module
+www.taobao.com##.tbh-qr-wrapper
 
 ! 2019/7/21 https://login.taobao.com
 login.taobao.com##.footer
