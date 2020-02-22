@@ -950,8 +950,14 @@ getemoji.com##h2:nth-of-type(9)
 greasyfork.org##.carbon-ad.ad
 
 ! 2019/9/13 https://www.mafengwo.cn
-www.mafengwo.cn###footer
-www.mafengwo.cn##.toolbar-item-code
+mafengwo.cn##.toolbar-item-code
+mafengwo.cn###banner-con-gloable
+mafengwo.cn###float-pannel-gloable
+mafengwo.cn###smartGuide
+mafengwo.cn##.block-newer-guide
+
+! 2020/2/22 https://passport.mafengwo.cn
+passport.mafengwo.cn###footer
 
 ! 2019/9/13 https://auth.alipay.com
 auth.alipay.com###onlineService
