@@ -620,10 +620,6 @@ www.ceic.ac.cn###map2 > div:nth-of-type(1) > .gm-china.gm-style > div.gmnoprint:
 www.ceic.ac.cn###map1 > div:nth-of-type(1) > .gm-china.gm-style > .gm-style-cc.gmnoprint
 www.ceic.ac.cn###map2 > div:nth-of-type(1) > .gm-china.gm-style > .gm-style-cc.gmnoprint
 
-! 2019/8/10 youku.com
-youku.com##.g-footer
-youku.com##.youku-foot_2B1OU
-
 ! 2019/8/10 http://www.iqiyi.com
 www.iqiyi.com###block-AR
 www.iqiyi.com##.top.qy-popup-box > .signin-btn
@@ -699,6 +695,13 @@ vm.tudou.com##.td-footer-creation
 mp.youku.com##.upload_ad
 mp.youku.com##.upload_dayuQr
 mp.youku.com##.tips_box
+
+! 2019/8/10 youku.com
+youku.com##.g-footer
+youku.com##.youku-foot_2B1OU
+
+! 2020/2/22 https://i.youku.com
+i.youku.com##.s_miniFooter
 
 ! 2019/8/22 https://www.imooc.com
 www.imooc.com###globalTopBanner
@@ -991,3 +994,7 @@ www.htmleaf.com##.htmleaf-adv
 
 ! 2020/2/6 https://www.php.cn
 www.php.cn##[href="https://www.xp.cn/linux.html"]
+
+! 2020/2/23 http://tool.chinaz.com
+tool.chinaz.com###topTxt
+tool.chinaz.com###loc
