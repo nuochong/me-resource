@@ -998,3 +998,244 @@ www.php.cn##[href="https://www.xp.cn/linux.html"]
 ! 2020/2/23 http://tool.chinaz.com
 tool.chinaz.com###topTxt
 tool.chinaz.com###loc
+
+
+
+
+
+! 2020/2/25 https://www.wondercv.com
+www.wondercv.com##.mentor-intro
+
+! 2020/2/27 https://zhaopin.baidu.com
+zhaopin.baidu.com##.c-blocka.zp-daoliu-bg.recently-browse
+
+! 2020/2/27 https://www.lagou.com
+www.lagou.com##.lgad_container
+www.lagou.com##div.history:nth-of-type(2)
+
+! 2020/2/27 https://pan.baidu.com
+pan.baidu.com##.gOIbzPb
+
+! 2020/2/28 https://haokan.baidu.com
+haokan.baidu.com##.ec_result.skeleton.adv
+
+! 2020/2/29 https://fanyi.baidu.com
+fanyi.baidu.com##.app-side-ad
+fanyi.baidu.com###app-read
+
+! 2020/3/20 https://jobs.zhaopin.com
+jobs.zhaopin.com##.register-guide
+
+! 2020/3/26 http://www.nmc.cn
+www.nmc.cn##.bdshare-button-style0-24.pull-right.bdsharebuttonbox
+
+! 2020/5/5 https://order.jd.com
+order.jd.com###shareRecDemo
+order.jd.com###guessing-liked
+
+! 2020/5/14 https://login.taobao.com
+login.taobao.com##.login-tip
+
+! 2020/5/21 https://www.cnblogs.com
+www.cnblogs.com###big_banner
+
+! 2020-08-24 http://mail.ym.163.com
+mail.ym.163.com##.g-mn-wlc
+
+! 2020-09-04 https://www.antdv.com
+www.antdv.com##[href^="https://time.geekbang.org/column/intro/100017301"]
+
+! 2020-09-08 https://www.antdv.com
+www.antdv.com##[href="http://gk.link/a/10l8O"]
+
+! 2020-11-11 https://blog.csdn.net
+blog.csdn.net##.recommend-box.first-recommend-box
+blog.csdn.net##.programmer2Box
+blog.csdn.net##.programmer3Box
+blog.csdn.net##.programmer4Box
+
+! 2020-11-12 https://blog.csdn.net
+blog.csdn.net###blogColumnPayAdvert
+
+! 2020-11-27 https://jingyan.baidu.com
+jingyan.baidu.com##.task-panel-entrance
+
+! 2020-12-12 http://tool.manmanbuy.com
+tool.manmanbuy.com##.right_app_down
+tool.manmanbuy.com##.app-activity-download
+
+! 2020-12-13 https://detail.i56.taobao.com
+detail.i56.taobao.com##.rb-op
+detail.i56.taobao.com##.tms-row
+detail.i56.taobao.com##.tms-block
+
+! 2021-01-05 https://ts.xcatliu.com
+ts.xcatliu.com##header > .hide_on_mobile
+
+! 2021-01-11 https://jkchao.github.io
+jkchao.github.io##.site-name
+
+! 2021-01-23 https://pan.baidu.com
+pan.baidu.com##.phone-banner
+
+! 2021-01-24 https://juejin.cn
+juejin.cn##.activity-recommend
+
+! 2021-04-13 https://www.cnblogs.com
+www.cnblogs.com###cnblogs_c1
+www.cnblogs.com###cnblogs_c2
+
+! 2021-04-18 https://www.jianshu.com
+www.jianshu.com##._1F7CTF
+
+! 2021-04-19 https://blog.csdn.net
+blog.csdn.net##main > .csdn-shop-window-common
+
+! 2021-04-19 https://www.w3cschool.cn
+www.w3cschool.cn###rfbanner
+
+map.baidu.com##.poiLeadDownloadCard
+
+! 2021-05-15 https://fanyi.baidu.com
+fanyi.baidu.com##.select-to-language.language-btn::after
+fanyi.baidu.com##.domain-trans-hot.domain-trans-large.domain-trans::before
+
+! 2021-05-21 https://www.bootcdn.cn
+www.bootcdn.cn##a.library.list-group-item
+
+! 2021-05-23 https://www.jianshu.com
+www.jianshu.com##._27yofX
+
+! 2021-05-30 https://blog.csdn.net
+blog.csdn.net##.blog-content-box > .csdn-shop-window-common
+
+! 2021-06-01 https://gitee.com
+gitee.com##.gitee-8th.gitosc-logo.item
+
+! 2021-06-08 https://fanyi.baidu.com
+fanyi.baidu.com###sideBannerContainer
+fanyi.baidu.com##.cleafix.footer
+
+! 2021-06-15 https://stackoverflow.com
+stackoverflow.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-750.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
+
+! 2021-06-20 https://blog.csdn.net
+blog.csdn.net##.csdn-redpack-container
+
+! 2021-06-26 https://haokan.baidu.com
+haokan.baidu.com##.ec_result.skeletonbg.adv
+
+! 2021-07-09 https://zhidao.baidu.com
+zhidao.baidu.com##.businessvip-clew-3186470617.businessvip-wrapper
+
+! 2021-11-10 https://blog.csdn.net
+||img-home.csdnimg.cn/images/20211109093624.png$image
+
+! 2022-04-06 https://fanyi.baidu.com
+fanyi.baidu.com##.upgrade-tag
+fanyi.baidu.com##.vip-btn
+
+! 2022-06-22 https://outlook.live.com
+outlook.live.com##.AK_my > .pBKjV
+
+! 2022-06-22 https://blog.csdn.net
+blog.csdn.net##.marketing-box
+
+! 2022-06-23 https://blog.csdn.net
+blog.csdn.net##[src="https://img-home.csdnimg.cn/images/20210918025138.gif"]
+
+! 2022-06-23 https://www.csdn.net
+www.csdn.net##[src="https://img-home.csdnimg.cn/images/20210918025138.gif"]
+
+! 2022-06-23 https://weibo.com
+weibo.com##.Side_fixcr_1xZN7.wbpro-side-copy
+weibo.com##.wbpro-side-copy
+
+! 2022-06-23 http://events.jianshu.io
+events.jianshu.io##div._1pUUKr:nth-of-type(2)
+events.jianshu.io##._1F7CTF
+events.jianshu.io##.fa8byxiLG1y_kbW7CHjYk_0
+events.jianshu.io##div._1pUUKr:nth-of-type(3)
+
+! 2022-06-24 https://juejin.cn
+juejin.cn##.index-aside-footer
+juejin.cn##.tablead
+juejin.cn##.special-activity.no-hover.activity
+
+! 2022-07-02 https://search.bilibili.com
+search.bilibili.com##.bili-footer
+
+! 2022-07-06 https://haokan.baidu.com
+haokan.baidu.com##.landrightbanner
+haokan.baidu.com##.player-pause-code
+
+! 2022-07-10 https://www.xiachufang.com
+www.xiachufang.com##.footer-outer
+
+! 2022-07-11 https://buyertrade.taobao.com
+buyertrade.taobao.com###J_SiteFooter
+
+! 2022-07-12 http://www.360doc.com
+www.360doc.com##.floatqrcode
+
+! 2022-07-15 https://www.bilibili.com
+www.bilibili.com##.ad-floor-exp.ad-report
+
+! 2022-07-22 https://pan.baidu.com
+pan.baidu.com##.app-user-vip-center-tip
+pan.baidu.com##.rights-section-banner-tag.rights-section
+pan.baidu.com##.btn-img-tips
+pan.baidu.com##.wp-s-header__vip-btn-tip
+pan.baidu.com##div.wp-s-header__right-item:nth-of-type(1)
+pan.baidu.com##.wp-s-header__right-item.web-header-ad-item
+
+! 2022-07-25 https://www.bilibili.com
+www.bilibili.com##.left-loc-entry.v-popover-wrap
+
+! 2022-07-25 https://iask.sina.com.cn
+iask.sina.com.cn##div.mt10.detail-floor-item.detail-answer-item:nth-of-type(8)
+iask.sina.com.cn##.mt20.pw
+iask.sina.com.cn##.mt20.iask-footer
+
+! 2022-07-25 https://www.autohome.com.cn
+www.autohome.com.cn##.activity-coin-layer
+www.autohome.com.cn##.activity-card
+
+! 2022-07-25 https://detail.tmall.com
+detail.tmall.com###footer1
+
+! 2022-07-26 https://search.bilibili.com
+search.bilibili.com##.left-loc-entry.v-popover-wrap
+
+! 2022-07-26 https://live.bilibili.com
+live.bilibili.com##.w-100.over-hidden.p-relative.flip-view
+
+! 2022-07-26 https://blog.csdn.net
+blog.csdn.net##.icon-mp-menu
+
+! 2022-07-29 https://live.bilibili.com
+live.bilibili.com##.task-gather-entry > span
+
+! 2022-08-02 https://www.bilibili.com
+www.bilibili.com##section.bili-grid:nth-of-type(3)
+
+! 2022-08-03 https://blog.csdn.net
+blog.csdn.net##.sidecolumn-hide.sidecolumn.option-box > .icon-option-beta
+
+! 2022-08-07 https://blog.csdn.net
+blog.csdn.net##.directory-show.directory.option-box > .icon-option-beta
+
+! 2022-08-12 https://juejin.cn
+juejin.cn##.update-icon
+
+! 2022-08-15 https://www.jianshu.com
+www.jianshu.com##._13lIbp
+
+! 2022-09-23 https://fanyi.baidu.com
+fanyi.baidu.com##.vip-btn-activity
+
+! 2022-10-17 https://juejin.cn
+juejin.cn##.guide-collect-popover
+
+! 2022-10-20 https://juejin.cn
+juejin.cn##.login-guide-popup.login-guide-wrap
